@@ -1,0 +1,1177 @@
+
+#2015-02-18 9:46:00 AM
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName) VALUES ('T1', 'Cannot change location for fixed position equipment.', 'Cannot change location for fixed position equipment.', 'PdM/pdmmain.aspx')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName) VALUES ('T2', 'Cannot change location for fixed position equipment.', 'Cannot change location for fixed position equipment.', 'PdM/pdmmain.aspx')
+
+#2015-02-18 9:52:23 AM
+DELETE FROM SystemMessage WHERE FileName = 'PdM/pdmmain.aspx' AND MsgId = 'T2'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName) VALUES ('T2', 'Cannot change location for fixed position equipment.', 'Cannot change location for fixed position equipment.', 'PdM/pdmmain.aspx')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName) VALUES ('T2', 'Cannot change location for fixed position equipment.', 'Cannot change location for fixed position equipment.', 'PdM/pdmmain.aspx')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName) VALUES ('T2', 'Cannot select measurement if equipment is not selected.', 'Cannot select measurement if equipment is not selected.', 'PdM/pdmmain.aspx')
+
+#2015-02-18 9:54:26 AM
+DELETE FROM SystemMessage WHERE FileName = 'PdM/pdmmain.aspx' AND MsgId = 'T2'
+DELETE FROM SystemMessage WHERE FileName = 'PdM/pdmmain.aspx' AND MsgId = 'T1'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName) VALUES ('T1', 'Cannot change location for fixed position equipment.', 'Cannot change location for fixed position equipment.', 'PdM/pdmmain.aspx')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName) VALUES ('T2', 'Cannot select measurement if equipment is not selected.', 'Cannot select measurement if equipment is not selected.', 'PdM/pdmmain.aspx')
+
+#2015-02-18 9:57:05 AM
+DELETE FROM SystemMessage WHERE FileName = 'PdM/pdmmain.aspx' AND MsgId = 'T1'
+DELETE FROM SystemMessage WHERE FileName = 'PdM/pdmmain.aspx' AND MsgId = 'T2'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName) VALUES ('T1', 'Cannot change location for fixed position equipment.', 'Cannot change location for fixed position equipment.', 'PdM/pdmmain.aspx')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName) VALUES ('T2', 'Cannot select measurement if equipment is not selected.', 'Cannot select measurement if equipment is not selected.', 'PdM/pdmmain.aspx')
+
+#2015-02-18 10:18:15 AM
+DELETE FROM SystemMessage WHERE FileName = 'PdM/pdmmain.aspx' AND MsgId = 'T1'
+DELETE FROM SystemMessage WHERE FileName = 'PdM/pdmmain.aspx' AND MsgId = 'T2'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName) VALUES ('T1', 'Cannot change location for fixed position equipment.', 'Cannot change location for fixed position equipment.', 'PdM/pdmmain.aspx')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName) VALUES ('T2', 'Cannot select measurement if equipment is not selected.', 'Cannot select measurement if equipment is not selected.', 'PdM/pdmmain.aspx')
+
+#2015-02-18 10:21:57 AM
+DELETE FROM SystemMessage WHERE FileName = 'PdM/pdmmain.aspx' AND MsgId = 'T2'
+DELETE FROM SystemMessage WHERE FileName = 'PdM/pdmmain.aspx' AND MsgId = 'T1'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName) VALUES ('T1', 'Cannot change location for fixed position equipment.', 'Cannot change location for fixed position equipment.', 'PdM/pdmmain.aspx')
+
+#2015-02-18 10:25:06 AM
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName) VALUES ('T2', 'Cannot select measurement if equipment is not selected.', 'Cannot select measurement if equipment is not selected.', 'PdM/pdmmain.aspx')
+
+#2015-02-18 10:28:39 AM
+DELETE FROM SystemMessage WHERE FileName = 'PdM/pdmmain.aspx' AND MsgId = 'T2'
+DELETE FROM SystemMessage WHERE FileName = 'PdM/pdmmain.aspx' AND MsgId = 'T1'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName) VALUES ('T1', 'Cannot change location for fixed position equipment.', 'Cannot change location for fixed position equipment.', 'PdM/pdmmain.aspx')
+
+#2015-02-18 10:31:21 AM
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName) VALUES ('T2', 'Cannot select measurement if equipment is not selected.', 'Cannot select measurement if equipment is not selected.', 'PdM/pdmmain.aspx')
+
+#2015-02-18 10:52:22 AM
+DELETE FROM SystemMessage WHERE FileName = 'PdM/pdmmain.aspx' AND MsgId = 'T2'
+DELETE FROM SystemMessage WHERE FileName = 'PdM/pdmmain.aspx' AND MsgId = 'T1'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName) VALUES ('T1', 'Cannot change location for fixed position equipment.', 'Cannot change location for fixed position equipment.', 'PdM/pdmmain.aspx')
+
+#2015-02-18 11:18:09 AM
+DELETE FROM SystemMessage WHERE FileName = 'PdM/pdmmain.aspx' AND MsgId = 'T1'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName) VALUES ('T1', 'Cannot select measurement if equipment is not selected.', 'Cannot select measurement if equipment is not selected.', 'PdM/pdmmain.aspx')
+
+#2015-02-18 11:49:37 AM
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName) VALUES ('T2', 'Cannot change location for fixed position equipment.', 'Cannot change location for fixed position equipment.', 'PdM/pdmmain.aspx')
+
+#2015-02-18 2:04:51 PM
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName) VALUES ('T18', 'Are you sure you would like to remove the selected records from the work list?', 'Are you sure you would like to remove the selected records from the work list?', 'inventory/invpanel.aspx')
+
+#2015-02-18 2:06:20 PM
+DELETE FROM SystemMessage WHERE FileName = 'inventory/invpanel.aspx' AND MsgId = 'T18'
+
+#2015-02-18 2:07:46 PM
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName) VALUES ('T1', ' + m_division + ', ' + m_division + ', 'inventory/invheader.ascx.cs')
+DELETE FROM SystemMessage WHERE FileName = 'inventory/invheader.ascx.cs' AND MsgId = 'T1'
+
+#2015-02-18 2:31:08 PM
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName) VALUES ('T1', 'Cannot change location for fixed position equipment.', 'Cannot change location for fixed position equipment.', 'pmmain.aspx')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName) VALUES ('T2', 'Please enter equipment first.', 'Please enter equipment first.', 'pmmain.aspx')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName) VALUES ('T3', 'No route is attached to this PM.', 'No route is attached to this PM.', 'pmmain.aspx')
+
+#2015-02-18 2:44:04 PM
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName) VALUES ('T1', 'All', 'All', 'pmmain.aspx.cs')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName) VALUES ('T2', 'All', 'All', 'pmmain.aspx.cs')
+DELETE FROM SystemMessage WHERE FileName = 'pmmain.aspx.cs' AND MsgId = 'T2'
+DELETE FROM SystemMessage WHERE FileName = 'pmmain.aspx.cs' AND MsgId = 'T1'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName) VALUES ('T1', 'All Records', 'All Records', 'pmmain.aspx.cs')
+
+#2015-02-19 10:04:08 AM
+DELETE FROM SystemMessage WHERE FileName = 'Equipment/equipmentheader.ascx' AND MsgId = 'T1'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'sdfsdgfsd', 'sdfsdgfsd', 'Equipment/equipmentheader.ascx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'Equipment/equipmentheader.ascx' AND MsgId = 'T1'
+
+#2015-02-19 10:33:09 AM
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'Equipment is on open work order and purchase order. Deletion is not allowed.', 'Equipment is on open work order and purchase order. Deletion is not allowed.', 'Equipment/equipmentmain.aspx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'Equipment/equipmentmain.aspx' AND MsgId = 'T3'
+
+#2015-02-19 11:17:38 AM
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Please enter first meter before entering second meter.', 'Please enter first meter before entering second meter.', 'QA621/PM/pmheader.ascx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'QA621/PM/pmheader.ascx' AND MsgId = 'T1'
+
+#2015-02-20 8:33:14 AM
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Are you sure want to reset Down Time?', 'Are you sure want to reset Down Time?', 'Equipment/equipmentheader.ascx', 'Terminator')
+
+#2015-02-20 8:34:22 AM
+DELETE FROM SystemMessage WHERE FileName = 'Equipment/equipmentheader.ascx' AND MsgId = 'T1'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Please enter serial number for serialized item.', 'Please enter serial number for serialized item.', 'Equipment/equipmentheader.ascx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'Equipment/equipmentheader.ascx' AND MsgId = 'T1'
+
+#2015-02-20 8:35:45 AM
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Please enter serial number for serialized item.', 'Please enter serial number for serialized item.', 'Equipment/equipmentheader.ascx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'Equipment/equipmentheader.ascx' AND MsgId = 'T1'
+
+#2015-02-20 8:38:02 AM
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Are you sure want to reset Down Time?', 'Are you sure want to reset Down Time?', 'Equipment/equipmentheader.ascx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'Equipment/equipmentheader.ascx' AND MsgId = 'T1'
+
+#2015-02-20 8:44:13 AM
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Please enter serial number for serialized item.', 'Please enter serial number for serialized item.', 'Equipment/equipmentheader.ascx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'Equipment/equipmentheader.ascx' AND MsgId = 'T1'
+
+#2015-02-20 8:47:04 AM
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Please enter serial number for serialized item.', 'Please enter serial number for serialized item.', 'Equipment/equipmentheader.ascx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'Equipment/equipmentheader.ascx' AND MsgId = 'T1'
+
+#2015-02-20 8:49:40 AM
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Please enter serial number for serialized item.', 'Please enter serial number for serialized item.', 'Equipment/equipmentheader.ascx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'Equipment/equipmentheader.ascx' AND MsgId = 'T1'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Are you sure want to reset Down Time?', 'Are you sure want to reset Down Time?', 'Equipment/equipmentheader.ascx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'Equipment/equipmentheader.ascx' AND MsgId = 'T1'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Please enter serial number for serialized item.', 'Please enter serial number for serialized item.', 'Equipment/equipmentheader.ascx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'Equipment/equipmentheader.ascx' AND MsgId = 'T1'
+
+#2015-04-17 1:04:52 PM
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'Interface import finished. ', 'Interface import finished. ', 'Interface/importfile.aspx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'Interface/importfile.aspx' AND MsgId = 'T3'
+
+#2015-04-20 8:25:12 AM
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T4', 'OK', 'OK', 'Requisition/keydetail.aspx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'Requisition/keydetail.aspx' AND MsgId = 'T4'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T4', 'ItemRequest', 'ItemRequest', 'Requisition/keydetail.aspx', 'Terminator')
+
+#2015-04-20 8:40:20 AM
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'Invalid Limits and Warnings', 'Invalid Limits and Warnings', 'PdM/pdmheader.ascx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'PdM/pdmheader.ascx' AND MsgId = 'T3'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'Invalid Limits and Warnings', 'Invalid Limits and Warnings', 'PdM/pdmheader.ascx', 'Terminator')
+
+#2015-04-22 8:40:38 AM
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Please enter low warning number.', 'Please enter low warning number.', 'PdM/pdmheader.ascx', 'Terminator')
+
+#2015-04-22 8:43:16 AM
+DELETE FROM SystemMessage WHERE FileName = 'PdM/pdmheader.ascx' AND MsgId = 'T1'
+
+#2015-04-22 8:50:53 AM
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Please enter low limit number.', 'Please enter low limit number.', 'PdM/pdmheader.ascx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'PdM/pdmheader.ascx' AND MsgId = 'T2'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Please ...', 'Please ...', 'PdM/pdmheader.ascx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'PdM/pdmheader.ascx' AND MsgId = 'T2'
+
+#2015-04-22 8:56:32 AM
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'No PM selected.', 'No PM selected.', 'PM/generatepm.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Please enter valid days.', 'Please enter valid days.', 'PM/generatepm.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'No workorder generated.', 'No workorder generated.', 'PM/generatepm.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T4', 'Invalid option.', 'Invalid option.', 'PM/generatepm.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Cannot Change vendor for fixed service code.', 'Cannot Change vendor for fixed service code.', 'workorder/ActService.aspx', 'Terminator')
+
+#2015-04-22 9:26:05 AM
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Your Work Request has been Dispatched to a new Work Order Number ', 'Your Work Request has been Dispatched to a new Work Order Number ', 'workorder/assignwr.aspx', 'Terminator')
+
+#2015-04-22 9:31:23 AM
+DELETE FROM SystemMessage WHERE FileName = 'workorder/assignwr.aspx' AND MsgId = 'T1'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Your Work Request has been Dispatched to a new Work Order Number ', 'Your Work Request has been Dispatched to a new Work Order Number ', 'workorder/assignwr.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Please enter work order number to add work request to', 'Please enter work order number to add work request to', 'workorder/assignwr.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'Missing work request number.', 'Missing work request number.', 'workorder/assignwr.aspx', 'Terminator')
+
+#2015-04-22 10:03:55 AM
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'No workorder is selected!', 'No workorder is selected!', 'workorder/BatchClose.aspx', 'Terminator')
+
+#2015-04-22 10:34:37 AM
+DELETE FROM SystemMessage WHERE FileName = 'workorder/assignwr.aspx' AND MsgId = 'T3'
+
+#2015-04-22 12:13:38 PM
+DELETE FROM SystemMessage WHERE FileName = 'workorder/BatchClose.aspx' AND MsgId = 'T1'
+
+#2015-04-22 12:19:39 PM
+DELETE FROM SystemMessage1 WHERE FileName = 'workorder/BatchClose.aspx' AND MsgId = 'T1'
+DELETE FROM SystemMessage1 WHERE FileName = 'workorder/BatchClose.aspx' AND MsgId = 'T2'
+DELETE FROM SystemMessage1 WHERE FileName = 'workorder/BatchClose.aspx' AND MsgId = 'T3'
+DELETE FROM SystemMessage1 WHERE FileName = 'workorder/BatchClose.aspx' AND MsgId = 'T4'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'The left side window will be refreshed after completing. Do you want to continue?', 'The left side window will be refreshed after completing. Do you want to continue?', 'workorder/BatchClose.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'No workorder is selected.', 'No workorder is selected.', 'workorder/BatchClose.aspx', 'Terminator')
+DELETE FROM SystemMessage1 WHERE FileName = 'workorder/BatchComplete.aspx' AND MsgId = 'T4'
+
+#2015-04-22 12:45:41 PM
+DELETE FROM SystemMessage1 WHERE FileName = 'workorder/BatchComplete.aspx' AND MsgId = 'T4'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'No workorder is selected!', 'No workorder is selected!', 'workorder/BatchComplete.aspx', 'Terminator')
+
+#2015-04-22 1:01:31 PM
+DELETE FROM SystemMessage WHERE FileName = 'workorder/BatchComplete.aspx' AND MsgId = 'T1'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'No workorder is selected!', 'No workorder is selected!', 'workorder/BatchComplete.aspx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'workorder/BatchComplete.aspx' AND MsgId = 'T1'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'No workorder is selected!', 'No workorder is selected!', 'workorder/BatchComplete.aspx', 'Terminator')
+DELETE FROM SystemMessage1 WHERE FileName = 'workorder/BatchComplete.aspx' AND MsgId = 'T4'
+
+#2015-04-22 1:12:13 PM
+DELETE FROM SystemMessage1 WHERE FileName = 'workorder/BatchComplete.aspx' AND MsgId = 'T4'
+
+#2015-04-22 1:16:29 PM
+DELETE FROM SystemMessage1 WHERE FileName = 'workorder/BatchComplete.aspx' AND MsgId = 'T4'
+
+#2015-04-22 1:21:06 PM
+DELETE FROM SystemMessage1 WHERE FileName = 'workorder/BatchComplete.aspx' AND MsgId = 'T4'
+
+#2015-04-22 1:26:01 PM
+DELETE FROM SystemMessage1 WHERE FileName = 'workorder/BatchComplete.aspx' AND MsgId = 'T4'
+
+#4/22/2015 1:31:06 PM
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Purchase order has been changed. Do you want to save the changes? Click Yes to save purchase order and change status\nClick No to abort. ', 'Purchase order has been changed. Do you want to save the changes? Click Yes to save purchase order and change status\nClick No to abort. ', 'Purchase/pomain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Purchase order has been changed. Do you want to save the changes? Click Yes to save purchase order and change status\nClick No to abort. ', 'Purchase order has been changed. Do you want to save the changes? Click Yes to save purchase order and change status\nClick No to abort. ', 'Purchase/pomain.aspx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'Purchase/pomain.aspx' AND MsgId = 'T2'
+
+#2015-04-22 1:39:09 PM
+DELETE FROM SystemMessage WHERE FileName = 'Purchase/pomain.aspx' AND MsgId = 'T1'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Purchase order has been changed. Do you want to save the changes? Click Yes to save purchase order and change status\nClick No to abort. ', 'Purchase order has been changed. Do you want to save the changes? Click Yes to save purchase order and change status\nClick No to abort. ', 'Purchase/pomain.aspx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'Purchase/pomain.aspx' AND MsgId = 'T1'
+
+#2015-04-22 3:09:37 PM
+DELETE FROM SystemMessage WHERE FileName = 'workorder/BatchComplete.aspx' AND MsgId = 'T1'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'No workorder is selected!', 'No workorder is selected!', 'workorder/BatchComplete.aspx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'workorder/BatchComplete.aspx' AND MsgId = 'T2'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'The left side window will be refreshed after completing. Do you want to continue?', 'The left side window will be refreshed after completing. Do you want to continue?', 'workorder/BatchComplete.aspx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'workorder/BatchComplete.aspx' AND MsgId = ''
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('', 'T3	Workorders are not all completed.', 'T3	Workorders are not all completed.', 'workorder/BatchComplete.aspx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'workorder/BatchComplete.aspx' AND MsgId = ''
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('', 'Workorders are not all completed.', 'Workorders are not all completed.', 'workorder/BatchComplete.aspx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'workorder/BatchComplete.aspx' AND MsgId = 'T4'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T4', 'Completion Failed', 'Completion Failed', 'workorder/BatchComplete.aspx', 'Terminator')
+
+#2015-04-22 3:28:18 PM
+DELETE FROM SystemMessage WHERE FileName = 'workorder/woaccounts.aspx' AND MsgId = 'T2'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', '', '', 'workorder/woaccounts.aspx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'workorder/woaccounts.aspx' AND MsgId = 'T2'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', '', '', 'workorder/woaccounts.aspx', 'Terminator')
+
+#2015-04-22 3:33:29 PM
+DELETE FROM SystemMessage WHERE FileName = 'workorder/woaccounts.aspx' AND MsgId = 'T2'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'T6	Total cost account amount cannot exceed total cost of workorder.', 'T6	Total cost account amount cannot exceed total cost of workorder.', 'workorder/woaccounts.aspx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'workorder/woaccounts.aspx' AND MsgId = 'T2'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Total cost account amount cannot exceed total cost of workorder.', 'Total cost account amount cannot exceed total cost of workorder.', 'workorder/woaccounts.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Percentage must be a number between 0 to 100', 'Percentage must be a number between 0 to 100', 'workorder/woaccounts.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'Percentage sum must equal or less than 100!', 'Percentage sum must equal or less than 100!', 'workorder/woaccounts.aspx', 'Terminator')
+
+#2015-04-22 3:40:58 PM
+DELETE FROM SystemMessage WHERE FileName = 'workorder/woaccounts.aspx' AND MsgId = 'T1'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Total cost account amount cannot exceed total cost of workorder.', 'Total cost account amount cannot exceed total cost of workorder.', 'workorder/woaccounts.aspx', 'Terminator')
+
+#2015-04-22 3:46:04 PM
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'This Record Only', 'This Record Only', 'workorder/wostatus.aspx', 'Terminator')
+
+#2015-04-22 3:51:29 PM
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'This Record Only', 'This Record Only', 'workorder/wostatus.aspx', 'Terminator')
+
+#2015-04-23 8:49:01 AM
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Select a status code.', 'Select a status code.', 'workorder/wostatus.aspx', 'Terminator')
+
+#2015-04-23 8:54:32 AM
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Your session has expired. Please login again.', 'Your session has expired. Please login again.', 'workorder/wostatus.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Your session has expired. Please login again.', 'Your session has expired. Please login again.', 'workorder/wostatus.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Your session has expired. Please login again.', 'Your session has expired. Please login again.', 'workorder/wostatus.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Your session has expired. Please login again.', 'Your session has expired. Please login again.', 'workorder/wostatus.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Your session has expired. Please login again.', 'Your session has expired. Please login again.', 'workorder/wostatus.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Your session has expired. Please login again.', 'Your session has expired. Please login again.', 'workorder/wostatus.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Your session has expired. Please login again.', 'Your session has expired. Please login again.', 'workorder/wostatus.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Your session has expired. Please login again.', 'Your session has expired. Please login again.', 'workorder/wostatus.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Your session has expired. Please login again.', 'Your session has expired. Please login again.', 'workorder/wostatus.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'No record is selected.', 'No record is selected.', 'workorder/wrlist.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Your Work Request has been Dispatched to a new Work Order Number ', 'Your Work Request has been Dispatched to a new Work Order Number ', 'workorder/wrlist.aspx', 'Terminator')
+
+#2015-04-23 9:06:56 AM
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'Your session has expired. Please login again.', 'Your session has expired. Please login again.', 'workorder/wostatus.aspx', 'Terminator')
+
+#2015-04-23 9:10:06 AM
+DELETE FROM SystemMessage WHERE FileName = 'workorder/wostatus.aspx' AND MsgId = 'T3'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'Your session has expired. Please login again.', 'Your session has expired. Please login again.', 'workorder/wostatus.aspx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'workorder/wostatus.aspx' AND MsgId = 'T3'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'Your session has expired. Please login again.', 'Your session has expired. Please login again.', 'workorder/wostatus.aspx', 'Terminator')
+
+#2015-04-23 9:13:25 AM
+DELETE FROM SystemMessage WHERE FileName = 'workorder/wostatus.aspx' AND MsgId = 'T3'
+
+#2015-04-23 9:17:24 AM
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'Select a status code.', 'Select a status code.', 'workorder/wostatus.aspx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'workorder/wostatus.aspx' AND MsgId = 'T3'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'Your session has expired. Please login again.', 'Your session has expired. Please login again.', 'workorder/wostatus.aspx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'workorder/wostatus.aspx' AND MsgId = 'T3'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'Select an option from the To-Do list.', 'Select an option from the To-Do list.', 'workorder/wostatus.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T4', 'Reopen Work Order', 'Reopen Work Order', 'workorder/wostatus.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T5', 'Reopen Work Order', 'Reopen Work Order', 'workorder/wostatus.aspx', 'Terminator')
+
+#2015-04-23 1:01:36 PM
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T4', 'Final Approval', 'Final Approval', 'workorder/wostatus.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T5', 'Reopen Work Order', 'Reopen Work Order', 'workorder/wostatus.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T6', 'Uncomplete Work Order', 'Uncomplete Work Order', 'workorder/wostatus.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T7', 'Close Work Order', 'Close Work Order', 'workorder/wostatus.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T8', 'Unapprove Work Order', 'Unapprove Work Order', 'workorder/wostatus.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T9', 'Cancel Work Order', 'Cancel Work Order', 'workorder/wostatus.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T10', 'Change Status', 'Change Status', 'workorder/wostatus.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T11', 'Approve work order', 'Approve work order', 'workorder/wostatus.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T12', 'Selected Records', 'Selected Records', 'workorder/wostatus.aspx', 'Terminator')
+
+#2015-04-23 1:26:01 PM
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Recent List', 'Recent List', 'workorder/Wopanel.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Recent List', 'Recent List', 'workorder/Wopanel.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Query Result', 'Query Result', 'workorder/Wopanel.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'Work List', 'Work List', 'workorder/Wopanel.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T4', 'No workorder is selected.', 'No workorder is selected.', 'workorder/Wopanel.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T5', 'You are currently in work list.', 'You are currently in work list.', 'workorder/Wopanel.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T6', 'Are you sure you would like to remove the selected records from the work list?', 'Are you sure you would like to remove the selected records from the work list?', 'workorder/Wopanel.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T7', 'You are not in work list.', 'You are not in work list.', 'workorder/Wopanel.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Please enter valid date for transdate.', 'Please enter valid date for transdate.', 'workorder/womain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'No record selected.', 'No record selected.', 'workorder/womain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'Workorder has been changed. Do you want to save the changes? Click Yes to save workorder and change status\nClick No to abort. ', 'Workorder has been changed. Do you want to save the changes? Click Yes to save workorder and change status\nClick No to abort. ', 'workorder/womain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T4', 'Please enter project first.', 'Please enter project first.', 'workorder/womain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T5', 'Labour cost will be updated as Work Type is changed. Click OK to continue, click Cancel to abort.', 'Labour cost will be updated as Work Type is changed. Click OK to continue, click Cancel to abort.', 'workorder/womain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T6', 'This Work Order has no project.', 'This Work Order has no project.', 'workorder/womain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T7', 'Equipment is under warranty.', 'Equipment is under warranty.', 'workorder/womain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T8', 'No route is attached to this Work Order.', 'No route is attached to this Work Order.', 'workorder/womain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Procedure has been changed. By clicking OK, you will replace all estimated resources with those from the new procedure.\n\rClick Cancel to abot the operation.', 'Procedure has been changed. By clicking OK, you will replace all estimated resources with those from the new procedure.\n\rClick Cancel to abot the operation.', 'workorder/Woheader.ascx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'update procedure is to be completed.', 'update procedure is to be completed.', 'workorder/Woheader.ascx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'update equipment is to be completed.', 'update equipment is to be completed.', 'workorder/Woheader.ascx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T4', 'Invalid Project ID and Phase.', 'Invalid Project ID and Phase.', 'workorder/Woheader.ascx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T5', 'Could not enter the date and time which is greater than current date and time.', 'Could not enter the date and time which is greater than current date and time.', 'workorder/Woheader.ascx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T6', 'Could not enter the date and time which is eariler than workorder open date.', 'Could not enter the date and time which is eariler than workorder open date.', 'workorder/Woheader.ascx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T7', 'Please enter the complete date and time.', 'Please enter the complete date and time.', 'workorder/Woheader.ascx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Please enter valid reading.', 'Please enter valid reading.', 'workorder/Wocomp.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Meter reading is smaller than the current reading. Click OK to keep the reading if the new reading is the result of meter rollover or Cancel to erase the reading and enter again.', 'Meter reading is smaller than the current reading. Click OK to keep the reading if the new reading is the result of meter rollover or Cancel to erase the reading and enter again.', 'workorder/Wocomp.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'Meter reading does not fit into current meter reading.', 'Meter reading does not fit into current meter reading.', 'workorder/Wocomp.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T4', 'Invalid completion date.', 'Invalid completion date.', 'workorder/Wocomp.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T5', 'You cannot select a day future than today!', 'You cannot select a day future than today!', 'workorder/Wocomp.aspx', 'Terminator')
+
+#2015-04-24 8:19:02 AM
+DELETE FROM SystemMessage WHERE FileName = 'PM/generatepm.aspx' AND MsgId = 'T4'
+DELETE FROM SystemMessage WHERE FileName = 'PM/generatepm.aspx' AND MsgId = 'T1'
+DELETE FROM SystemMessage WHERE FileName = 'PM/generatepm.aspx' AND MsgId = 'T2'
+DELETE FROM SystemMessage WHERE FileName = 'PM/generatepm.aspx' AND MsgId = 'T3'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'No PM selected.', 'No PM selected.', 'PM/generatepm.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Invalid option.', 'Invalid option.', 'PM/generatepm.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'Please enter valid days.', 'Please enter valid days.', 'PM/generatepm.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T4', 'No workorder generated.', 'No workorder generated.', 'PM/generatepm.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T5', 'All PM records', 'All PM records', 'PM/generatepm.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T6', 'Selected PM records', 'Selected PM records', 'PM/generatepm.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T7', 'This PM record', 'This PM record', 'PM/generatepm.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T8', 'Calendar PM', 'Calendar PM', 'PM/generatepm.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T9', 'Meter PM', 'Meter PM', 'PM/generatepm.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T10', 'Both', 'Both', 'PM/generatepm.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T11', 'Ascend', 'Ascend', 'PM/generatepm.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T12', 'Descend', 'Descend', 'PM/generatepm.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T13', 'Work Order Number', 'Work Order Number', 'PM/generatepm.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T14', 'Target Date', 'Target Date', 'PM/generatepm.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T15', 'Location', 'Location', 'PM/generatepm.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T16', 'Equipment', 'Equipment', 'PM/generatepm.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T17', 'Craft', 'Craft', 'PM/generatepm.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T18', 'Crew', 'Crew', 'PM/generatepm.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T19', 'Manager/Supervisor', 'Manager/Supervisor', 'PM/generatepm.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T20', 'Employee', 'Employee', 'PM/generatepm.aspx', 'Terminator')
+
+#2015-04-24 8:43:17 AM
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Please enter a valid number.', 'Please enter a valid number.', 'PM/nestedpm.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Please enter a positive number.', 'Please enter a positive number.', 'PM/nestedpm.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'Procedure interval cannot be smaller than the base PM interval.', 'Procedure interval cannot be smaller than the base PM interval.', 'PM/nestedpm.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T4', 'Interval must be a multiple of the base interval.', 'Interval must be a multiple of the base interval.', 'PM/nestedpm.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Percentage must be a number between 0 to 100', 'Percentage must be a number between 0 to 100', 'PM/pmaccounts.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Percentage sum must equal or less than 100!', 'Percentage sum must equal or less than 100!', 'PM/pmaccounts.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'Unable to delete cost account record. Reason: ', 'Unable to delete cost account record. Reason: ', 'PM/pmaccounts.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T4', 'Unable to create cost account record. Reason: ', 'Unable to create cost account record. Reason: ', 'PM/pmaccounts.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T5', 'Unable to update cost account record. Reason: ', 'Unable to update cost account record. Reason: ', 'PM/pmaccounts.aspx', 'Terminator')
+
+#2015-04-24 9:08:54 AM
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', '. The Main Work Order screen has an unsaved Work Order currently on it. You have two options:\n\r1. Click OK to reject the Work Order changes currently on the Main Work Order screen. Azzier will take you to the Main Work Order screen and retrieve the newly Dispatched Work Order record.\n\r2. Click Cancel to keep Dispatching and you can still go to the Work Order module and  save the record on the Main screen.', '. The Main Work Order screen has an unsaved Work Order currently on it. You have two options:\n\r1. Click OK to reject the Work Order changes currently on the Main Work Order screen. Azzier will take you to the Main Work Order screen and retrieve the newly Dispatched Work Order record.\n\r2. Click Cancel to keep Dispatching and you can still go to the Work Order module and  save the record on the Main screen.', 'workorder/assignwr.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', '. The Main Work Order screen has an unsaved Work Order currently on it. You have two options:\n\r1. Click OK to reject the Work Order changes currently on the Main Work Order screen. Azzier will take you to the Main Work Order screen and retrieve the newly Dispatched Work Order record.\n\r2. Click Cancel to keep Dispatching and you can still go to the Work Order module and  save the record on the Main screen.', '. The Main Work Order screen has an unsaved Work Order currently on it. You have two options:\n\r1. Click OK to reject the Work Order changes currently on the Main Work Order screen. Azzier will take you to the Main Work Order screen and retrieve the newly Dispatched Work Order record.\n\r2. Click Cancel to keep Dispatching and you can still go to the Work Order module and  save the record on the Main screen.', 'workorder/wrlist.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T8', 'Work List', 'Work List', 'workorder/Wopanel.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T9', 'Query Result', 'Query Result', 'workorder/Wopanel.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T10', 'Recent List', 'Recent List', 'workorder/Wopanel.aspx', 'Terminator')
+
+#2015-04-24 9:44:08 AM
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T4', 'Unassigned', 'Unassigned', 'workorder/wrlist.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T5', 'Assigned', 'Assigned', 'workorder/wrlist.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'No PM selected.', 'No PM selected.', 'PM/generatepm.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Please enter valid days.', 'Please enter valid days.', 'PM/generatepm.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'No workorder generated.', 'No workorder generated.', 'PM/generatepm.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T4', 'All PM records', 'All PM records', 'PM/generatepm.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T5', 'Selected PM records', 'Selected PM records', 'PM/generatepm.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T6', 'This PM record', 'This PM record', 'PM/generatepm.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T7', 'Calendar PM', 'Calendar PM', 'PM/generatepm.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T8', 'Meter PM', 'Meter PM', 'PM/generatepm.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T9', 'Both', 'Both', 'PM/generatepm.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T10', 'Ascend', 'Ascend', 'PM/generatepm.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T11', 'Descend', 'Descend', 'PM/generatepm.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T12', 'Work Order Number', 'Work Order Number', 'PM/generatepm.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T13', 'Target Date', 'Target Date', 'PM/generatepm.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T14', 'Location', 'Location', 'PM/generatepm.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T15', 'Equipment', 'Equipment', 'PM/generatepm.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T16', 'Craft', 'Craft', 'PM/generatepm.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T17', 'Crew', 'Crew', 'PM/generatepm.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T18', 'Manager/Supervisor', 'Manager/Supervisor', 'PM/generatepm.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T19', 'Employee', 'Employee', 'PM/generatepm.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T5', 'Yes', 'Yes', 'PM/nestedpm.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T6', 'No', 'No', 'PM/nestedpm.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Please enter Second Meter Name.', 'Please enter Second Meter Name.', 'PM/pmheader.ascx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Are you sure you want to delete this PM?', 'Are you sure you want to delete this PM?', 'PM/pmheader.ascx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'Procedure has been changed. By clicking OK, you will replace all estimated resources with those from the new procedure.\n\rClick Cancel to abort the operation.', 'Procedure has been changed. By clicking OK, you will replace all estimated resources with those from the new procedure.\n\rClick Cancel to abort the operation.', 'PM/pmheader.ascx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T4', 'Procedure has been changed. By clicking OK, you will replace all estimated resources with those from the new procedure.\n\rClick Cancel to copy estimated resources from original PM.', 'Procedure has been changed. By clicking OK, you will replace all estimated resources with those from the new procedure.\n\rClick Cancel to copy estimated resources from original PM.', 'PM/pmheader.ascx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T5', 'Please enter Interval.', 'Please enter Interval.', 'PM/pmheader.ascx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T6', 'Interval cannot be smaller than 1.', 'Interval cannot be smaller than 1.', 'PM/pmheader.ascx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T7', 'Please enter interval unit.', 'Please enter interval unit.', 'PM/pmheader.ascx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T8', 'Please enter Due Date.', 'Please enter Due Date.', 'PM/pmheader.ascx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T9', 'Please enter Override Date.', 'Please enter Override Date.', 'PM/pmheader.ascx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T10', 'Please enter Meter Name.', 'Please enter Meter Name.', 'PM/pmheader.ascx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T11', 'Please enter meter reading for Next PM.', 'Please enter meter reading for Next PM.', 'PM/pmheader.ascx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T12', 'Please enter PM meter range.', 'Please enter PM meter range.', 'PM/pmheader.ascx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T13', 'Please enter second meter reading for next PM.', 'Please enter second meter reading for next PM.', 'PM/pmheader.ascx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T14', 'Please enter second PM meter range.', 'Please enter second PM meter range.', 'PM/pmheader.ascx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T15', 'Please enter second meter interval.', 'Please enter second meter interval.', 'PM/pmheader.ascx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T16', 'Second MeterName can not be same as first metername.', 'Second MeterName can not be same as first metername.', 'PM/pmheader.ascx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T17', 'Please enter first meter before entering second meter.', 'Please enter first meter before entering second meter.', 'PM/pmheader.ascx', 'Terminator')
+
+#2015-04-24 10:28:23 AM
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'On Due', 'On Due', 'PM/pmmain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'On Complete', 'On Complete', 'PM/pmmain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'All', 'All', 'PM/pmmain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T4', 'No route is attached to this PM.', 'No route is attached to this PM.', 'PM/pmmain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'You are currently in work list.', 'You are currently in work list.', 'PM/pmpanel.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Recent List', 'Recent List', 'PM/pmpanel.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'Query Result', 'Query Result', 'PM/pmpanel.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T4', 'Work List', 'Work List', 'PM/pmpanel.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T5', 'No PM is selected.', 'No PM is selected.', 'PM/pmpanel.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T6', 'Are you sure you would like to remove the selected records from the work list?', 'Are you sure you would like to remove the selected records from the work list?', 'PM/pmpanel.aspx', 'Terminator')
+
+#2015-04-24 12:31:46 PM
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Open Workorder List', 'Open Workorder List', 'PM/pmwolist.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Unable to delete cost account record. Reason: ', 'Unable to delete cost account record. Reason: ', 'PM/pmseason.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Unable to create cost account record. Reason: ', 'Unable to create cost account record. Reason: ', 'PM/pmseason.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'Unable to update cost account record. Reason: ', 'Unable to update cost account record. Reason: ', 'PM/pmseason.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T4', 'Edit', 'Edit', 'PM/pmseason.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T5', 'Delete', 'Delete', 'PM/pmseason.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T5', 'Labour', 'Labour', 'PM/pmmain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T6', 'material', 'material', 'PM/pmmain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T7', 'Tasks', 'Tasks', 'PM/pmmain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T8', 'Services', 'Services', 'PM/pmmain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T9', 'Tools', 'Tools', 'PM/pmmain.aspx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'PM/pmmain.aspx' AND MsgId = 'T6'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T6', 'Material', 'Material', 'PM/pmmain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T6', 'Edit', 'Edit', 'PM/pmaccounts.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T7', 'Delete', 'Delete', 'PM/pmaccounts.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T8', 'Accounts', 'Accounts', 'PM/pmaccounts.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T7', 'Edit', 'Edit', 'PM/nestedpm.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T8', 'Delete', 'Delete', 'PM/nestedpm.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'WO List', 'WO List', 'PM/pmwolist.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'History', 'History', 'workorder/wrrelation.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T9', 'Actual Labour', 'Actual Labour', 'workorder/womain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T10', 'Actual Material', 'Actual Material', 'workorder/womain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T11', 'Estimate Material', 'Estimate Material', 'workorder/womain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T12', 'Estimate Labour', 'Estimate Labour', 'workorder/womain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T13', 'Estimate Tasks', 'Estimate Tasks', 'workorder/womain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T14', 'Actual Tasks', 'Actual Tasks', 'workorder/womain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T15', 'Estimate Services', 'Estimate Services', 'workorder/womain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T16', 'Actual Services', 'Actual Services', 'workorder/womain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T17', 'Estimate Tools', 'Estimate Tools', 'workorder/womain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T18', 'Actual Tools', 'Actual Tools', 'workorder/womain.aspx', 'Terminator')
+
+#2015-04-27 8:28:34 AM
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Work Request', 'Work Request', 'workorder/relatewr.aspx', 'Terminator')
+
+#2015-04-27 8:49:36 AM
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Work Order', 'Work Order', 'workrequest/relatewo.aspx', 'Terminator')
+
+#2015-04-27 9:46:55 AM
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'History', 'History', 'workrequest/wrhistory.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'You are not in work list.', 'You are not in work list.', 'workrequest/wrpanel.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Are you sure you would like to remove the selected records from the work list?', 'Are you sure you would like to remove the selected records from the work list?', 'workrequest/wrpanel.aspx', 'Terminator')
+
+#4/27/2015 1:17:08 PM
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T4', 'Work Order', 'Work Order', 'Purchase/newposervice.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T5', 'Equipment', 'Equipment', 'Purchase/newposervice.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T6', 'Account / Request', 'Account / Request', 'Purchase/newposervice.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'PO Invoices', 'PO Invoices', 'Purchase/poinvoices.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T10', 'Work Order', 'Work Order', 'Purchase/polinedetail.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T11', 'Equipment', 'Equipment', 'Purchase/polinedetail.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T12', 'Account / Request', 'Account / Request', 'Purchase/polinedetail.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T13', 'New Equipment', 'New Equipment', 'Purchase/polinedetail.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T5', 'Work Order', 'Work Order', 'Purchase/polineservice.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T6', 'Equipment', 'Equipment', 'Purchase/polineservice.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T7', 'Account / Request', 'Account / Request', 'Purchase/polineservice.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T11', 'Cancel Order', 'Cancel Order', 'Purchase/postatus.aspx', 'Terminator')
+
+#2015-04-30 2:48:35 PM
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Already submitted. Please wait.', 'Already submitted. Please wait.', 'Jscript/StopDoubleClick.js', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Validating. Please wait...', 'Validating. Please wait...', 'Jscript/StopDoubleClick.js', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Entered Code does not exist or does not meet applied conditions.', 'Entered Code does not exist or does not meet applied conditions.', 'Jscript/CodeValidate.js', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Entered Code already exist.', 'Entered Code already exist.', 'Jscript/CodeValidate.js', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', ' is not found. Please check spelling.', ' is not found. Please check spelling.', 'Jscript/CodeValidate.js', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T4', 'Do you want to overwrite the ', 'Do you want to overwrite the ', 'Jscript/CodeValidate.js', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T5', 'Do you want to clear ', 'Do you want to clear ', 'Jscript/CodeValidate.js', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'You have made changes. They will be lost if you continue.', 'You have made changes. They will be lost if you continue.', 'Jscript/Codes.js', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Please enter a number', 'Please enter a number', 'Jscript/setgridhtmltag.js', 'Terminator')
+
+#2015-05-01 1:31:51 PM
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Please enter a number from 10 to 90 (The column size in percent of the available space)', 'Please enter a number from 10 to 90 (The column size in percent of the available space)', 'Jscript/Codes.js', 'Terminator')
+
+#2015-05-01 1:34:26 PM
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'Please enter a number from 10 to 90 (The column size in percent of the available space)', 'Please enter a number from 10 to 90 (The column size in percent of the available space)', 'Jscript/Codes.js', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'Jscript/Codes.js' AND MsgId = 'T3'
+DELETE FROM SystemMessage WHERE FileName = 'Jscript/Codes.js' AND MsgId = 'T2'
+
+#2015-05-01 1:43:19 PM
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'All Day Available!', 'All Day Available!', 'scheduler/Scheduler.js', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', ' Hours Available', ' Hours Available', 'scheduler/Scheduler.js', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'Please select employees to schedule!', 'Please select employees to schedule!', 'scheduler/Scheduler.js', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'Jscript/Codes.js' AND MsgId = 'T2'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', '', '', 'Jscript/Codes.js', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'Jscript/Codes.js' AND MsgId = 'T2'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Please enter a number from 10 to 90 (The column size in percent of the available space)', 'Please enter a number from 10 to 90 (The column size in percent of the available space)', 'Jscript/Codes.js', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T6', ' with the new value?', ' with the new value?', 'Jscript/CodeValidate.js', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T7', 'Please enter a positive cost percent or cost amount.', 'Please enter a positive cost percent or cost amount.', 'Jscript/CodeValidate.js', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T8', 'Apostrophe is not allowed.', 'Apostrophe is not allowed.', 'Jscript/CodeValidate.js', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T9', 'Number sign is not allowed.', 'Number sign is not allowed.', 'Jscript/CodeValidate.js', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T10', 'Caret is not allowed.', 'Caret is not allowed.', 'Jscript/CodeValidate.js', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T11', 'Quote is not allowed.', 'Quote is not allowed.', 'Jscript/CodeValidate.js', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T12', 'Comma is not allowed.', 'Comma is not allowed.', 'Jscript/CodeValidate.js', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T13', 'Percentage sign is not allowed.', 'Percentage sign is not allowed.', 'Jscript/CodeValidate.js', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T14', 'Ampersand is not allowed.', 'Ampersand is not allowed.', 'Jscript/CodeValidate.js', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T15', 'Great than is not allowed.', 'Great than is not allowed.', 'Jscript/CodeValidate.js', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T16', 'Less than is not allowed.', 'Less than is not allowed.', 'Jscript/CodeValidate.js', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T17', 'Please indicate keep cost or keep percent.', 'Please indicate keep cost or keep percent.', 'Jscript/CodeValidate.js', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T18', 'Please enter cost amount or cost percent.', 'Please enter cost amount or cost percent.', 'Jscript/CodeValidate.js', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T19', 'Please enter cost amount to keep amount.', 'Please enter cost amount to keep amount.', 'Jscript/CodeValidate.js', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T20', 'Please enter cost percent to keep percent.', 'Please enter cost percent to keep percent.', 'Jscript/CodeValidate.js', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Please select records first.', 'Please select records first.', 'Jscript/Header.js', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Please enter empid or craft.', 'Please enter empid or craft.', 'Jscript/LabourCalculations.js', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'The session will be ended and all windows will be closed. Are you sure to logoff?', 'The session will be ended and all windows will be closed. Are you sure to logoff?', 'Jscript/logoff.js', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Cannot Change Storeroom with itemnum entered.', 'Cannot Change Storeroom with itemnum entered.', 'Jscript/MaterialCalculations.js', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'please select items!', 'please select items!', 'Jscript/RadControls.js', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'No record is selected.', 'No record is selected.', 'Jscript/RadControls.js', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'Cannot change location for fixed position equipment.', 'Cannot change location for fixed position equipment.', 'Jscript/RadControls.js', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T4', 'Please enter equipment first.', 'Please enter equipment first.', 'Jscript/RadControls.js', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T5', 'You are currently in work list.', 'You are currently in work list.', 'Jscript/RadControls.js', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T6', 'You are not in work list.', 'You are not in work list.', 'Jscript/RadControls.js', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T7', 'Are you sure you want to remove these records from worklist?', 'Are you sure you want to remove these records from worklist?', 'Jscript/RadControls.js', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Please enter equipment or description.', 'Please enter equipment or description.', 'Jscript/ToolsCalculations.js', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Your session has expired. Please login again.', 'Your session has expired. Please login again.', 'scheduler/LabourScheduler.js', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Day Start must be no later then Day End!', 'Day Start must be no later then Day End!', 'scheduler/settings.js', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Work Day Start must be no later then Work Day End!', 'Work Day Start must be no later then Work Day End!', 'scheduler/settings.js', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'First Day of Week can not be the same of Last Day of week', 'First Day of Week can not be the same of Last Day of week', 'scheduler/settings.js', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Please Enter Template Name.', 'Please Enter Template Name.', 'scheduler/Template.js', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Can not delete setting, please select the template you want to delete!', 'Can not delete setting, please select the template you want to delete!', 'scheduler/Template.js', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'Are you Sure you want to delete template: ', 'Are you Sure you want to delete template: ', 'scheduler/Template.js', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T4', 'Apply Settings to ', 'Apply Settings to ', 'scheduler/Template.js', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T5', 'This will delete all non work hours for the selected employee records.', 'This will delete all non work hours for the selected employee records.', 'scheduler/Template.js', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T6', 'Please Select a ', 'Please Select a ', 'scheduler/Template.js', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T7', 'Are you sure: ', 'Are you sure: ', 'scheduler/Template.js', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T8', ' Deleted Successfully', ' Deleted Successfully', 'scheduler/Template.js', 'Terminator')
+
+#2015-05-01 3:27:14 PM
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Add Non Working Hour', 'Add Non Working Hour', 'scheduler/labourScheduler.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Add Recurring Non Working Hour', 'Add Recurring Non Working Hour', 'scheduler/labourScheduler.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'Go to today', 'Go to today', 'scheduler/labourScheduler.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T4', 'Show 24 hours...', 'Show 24 hours...', 'scheduler/labourScheduler.aspx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'scheduler/labourScheduler.aspx' AND MsgId = 'T1'
+DELETE FROM SystemMessage WHERE FileName = 'scheduler/labourScheduler.aspx' AND MsgId = 'T3'
+DELETE FROM SystemMessage WHERE FileName = 'scheduler/labourScheduler.aspx' AND MsgId = 'T2'
+DELETE FROM SystemMessage WHERE FileName = 'scheduler/labourScheduler.aspx' AND MsgId = 'T4'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Keep All', 'Keep All', 'scheduler/labourScheduler.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Overwrite All NWH', 'Overwrite All NWH', 'scheduler/labourScheduler.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'Overwrite All Recurring NWH', 'Overwrite All Recurring NWH', 'scheduler/labourScheduler.aspx', 'Terminator')
+
+#2015-05-01 3:43:20 PM
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Are you sure want to delete this Project?', 'Are you sure want to delete this Project?', 'Project/projectheader.ascx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'There are some incompleted work orders in this project. Please complete them first.', 'There are some incompleted work orders in this project. Please complete them first.', 'Project/projectheader.ascx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Are you sure to remove the Work Order record from this phase?', 'Are you sure to remove the Work Order record from this phase?', 'Project/projectmain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Project has been changed. Do you want to save the changes? Click Yes to save workorder and change status\nClick No to abort. ', 'Project has been changed. Do you want to save the changes? Click Yes to save workorder and change status\nClick No to abort. ', 'Project/projectmain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'The phase dates don’t have to be within the project date range. Do you want continue save it?', 'The phase dates don’t have to be within the project date range. Do you want continue save it?', 'Project/projectphase.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Are you sure to delete the phase record?', 'Are you sure to delete the phase record?', 'Project/projectphase.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'Invalid Start Date and End Date.\n', 'Invalid Start Date and End Date.\n', 'Project/projectphase.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'This Record Only', 'This Record Only', 'Project/projectstatus.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Selected Records', 'Selected Records', 'Project/projectstatus.aspx', 'Terminator')
+
+#2015-05-01 3:47:18 PM
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Transfer quantity cannot be more than stocklevel.', 'Transfer quantity cannot be more than stocklevel.', 'inventory/transfer.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Transfer quantity must be greater than 0.', 'Transfer quantity must be greater than 0.', 'inventory/transfer.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Error: no counter!', 'Error: no counter!', 'inventory/storemain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Are you sure to delete this item?', 'Are you sure to delete this item?', 'inventory/storemain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Please enter valid issue quantity.', 'Please enter valid issue quantity.', 'inventory/stagingissue.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'There is no item to be issued.', 'There is no item to be issued.', 'inventory/stagingissue.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Please enter valid return quantity', 'Please enter valid return quantity', 'inventory/returndetail.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Please set Return From first.', 'Please set Return From first.', 'inventory/return.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Please enter a number.', 'Please enter a number.', 'inventory/issuereserve.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Please enter itemnum or issue to.', 'Please enter itemnum or issue to.', 'inventory/issuebatchlist.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Please enter valid issue quantity', 'Please enter valid issue quantity', 'inventory/invlotlist.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'WONum is required.', 'WONum is required.', 'inventory/invlotlist.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'Equipment is required.', 'Equipment is required.', 'inventory/invlotlist.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T4', 'Location is required.', 'Location is required.', 'inventory/invlotlist.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T5', 'Employee is required.', 'Employee is required.', 'inventory/invlotlist.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T6', 'Account is required.', 'Account is required.', 'inventory/invlotlist.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T7', 'There is no item to be issued.', 'There is no item to be issued.', 'inventory/invlotlist.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Error: no counter!', 'Error: no counter!', 'inventory/invlot.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Please enter valid issue quantity', 'Please enter valid issue quantity', 'inventory/invissue.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'txtitemdesc', 'txtitemdesc', 'inventory/invissue.aspx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'inventory/invissue.aspx' AND MsgId = 'T2'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'WONum is required.', 'WONum is required.', 'inventory/invissue.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'Equipment is required.', 'Equipment is required.', 'inventory/invissue.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T4', 'Location is required.', 'Location is required.', 'inventory/invissue.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T5', 'Employee is required.', 'Employee is required.', 'inventory/invissue.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T6', 'Account is required.', 'Account is required.', 'inventory/invissue.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T7', 'There is no item to be issued.', 'There is no item to be issued.', 'inventory/invissue.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Issue Method is updated from ', 'Issue Method is updated from ', 'inventory/invheader.ascx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', ' to ', ' to ', 'inventory/invheader.ascx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'inventory/invheader.ascx' AND MsgId = 'T2'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', ' to ', ' to ', 'inventory/invheader.ascx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'Cannot use Lot Price is use Mixed issue method.', 'Cannot use Lot Price is use Mixed issue method.', 'inventory/invheader.ascx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T4', 'Markup value must be less than 1000 and greater than -1000.', 'Markup value must be less than 1000 and greater than -1000.', 'inventory/invheader.ascx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T5', 'Are you sure you want to delete this item?', 'Are you sure you want to delete this item?', 'inventory/invheader.ascx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T6', '. Click on OK to continue, click on cancel to abort.', '. Click on OK to continue, click on cancel to abort.', 'inventory/invheader.ascx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T7', '. All Lots in the same storeroom position will be combined into one Lot.Click on OK to continue, click on cancel to abort.', '. All Lots in the same storeroom position will be combined into one Lot.Click on OK to continue, click on cancel to abort.', 'inventory/invheader.ascx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Please enter valid count', 'Please enter valid count', 'inventory/invcountlines.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'No count to save.', 'No count to save.', 'inventory/invcountlines.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'The item is not in the original item list.', 'The item is not in the original item list.', 'inventory/invcount.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'There are records already been counted and posted. Recount on those records will cause the original records been set to inactive.However, posted result will not be changed until the new numbers are posted.', 'There are records already been counted and posted. Recount on those records will cause the original records been set to inactive.However, posted result will not be changed until the new numbers are posted.', 'inventory/invcount.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'You have just counted the item, are you sure to count again?', 'You have just counted the item, are you sure to count again?', 'inventory/invcount.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Please enter valid issue quantity', 'Please enter valid issue quantity', 'inventory/editissue.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Please enter storeroom.', 'Please enter storeroom.', 'inventory/checkrequesteditem.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'There is no item to be reserved.', 'There is no item to be reserved.', 'inventory/checkrequesteditem.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Alternate part can not be same as original item', 'Alternate part can not be same as original item', 'inventory/alternatepartmain.aspx', 'Terminator')
+
+#2015-05-04 8:44:33 AM
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Illegal page access.', 'Illegal page access.', 'Location/locationspecs.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Unable to delete record. Reason: ', 'Unable to delete record. Reason: ', 'Location/locationspecs.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'Unable to insert record. Reason: ', 'Unable to insert record. Reason: ', 'Location/locationspecs.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T4', 'Unable to update record. Reason: ', 'Unable to update record. Reason: ', 'Location/locationspecs.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T5', 'Specifications', 'Specifications', 'Location/locationspecs.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Please enter valid modify date.', 'Please enter valid modify date.', 'Location/locationmodify.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Modify date cannot be later than today.', 'Modify date cannot be later than today.', 'Location/locationmodify.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Are you sure you want to delete this location?', 'Are you sure you want to delete this location?', 'Location/locationheader.ascx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T21', 'Entered Code already exist.', 'Entered Code already exist.', 'Jscript/CodeValidate.js', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Additional Info', 'Additional Info', 'Location/locationeqplist.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'History', 'History', 'Location/locationhistory.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Hierarchy', 'Hierarchy', 'Location/locationtree.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'WorkOrder', 'WorkOrder', 'Equipment/pdmwolist.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Parts List', 'Parts List', 'Equipment/partslist.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Please enter either itemnum or description.', 'Please enter either itemnum or description.', 'Equipment/partdetail.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Please enter valid modify date.', 'Please enter valid modify date.', 'Equipment/modifyequipment.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Modify date cannot be later than today.', 'Modify date cannot be later than today.', 'Equipment/modifyequipment.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'Please check off Keep Child Equipment Relation first.', 'Please check off Keep Child Equipment Relation first.', 'Equipment/modifyequipment.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Insufficient information.', 'Insufficient information.', 'Equipment/meterentry.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Meter reading is smaller than the current reading. Click OK to keep the reading if the new reading is the result of meter rollover or Cancel to erase the reading and enter again.', 'Meter reading is smaller than the current reading. Click OK to keep the reading if the new reading is the result of meter rollover or Cancel to erase the reading and enter again.', 'Equipment/meterentry.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'Meter reading does not fit into current meter reading.', 'Meter reading does not fit into current meter reading.', 'Equipment/meterentry.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T4', 'Please enter valid reading.', 'Please enter valid reading.', 'Equipment/meterentry.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T5', 'Meter date cannot be later than today.', 'Meter date cannot be later than today.', 'Equipment/meterentry.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T6', 'Are you sure to delete this reading?', 'Are you sure to delete this reading?', 'Equipment/meterentry.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T7', 'Please enter valid meter date.', 'Please enter valid meter date.', 'Equipment/meterentry.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T8', 'Meter reading does not fit into current meter reading.', 'Meter reading does not fit into current meter reading.', 'Equipment/meterentry.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Please enter metername.', 'Please enter metername.', 'Equipment/meterchangeout.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Measurenment date cannot be later than today.', 'Measurenment date cannot be later than today.', 'Equipment/measuremententry.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'This measurement is set to numeric value. Please enter valid numeric value', 'This measurement is set to numeric value. Please enter valid numeric value', 'Equipment/measuremententry.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'Are you sure to delete this reading?', 'Are you sure to delete this reading?', 'Equipment/measuremententry.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Additional Info', 'Additional Info', 'Equipment/measurement.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Unable to delete cost Measurement record. Reason: ', 'Unable to delete cost Measurement record. Reason: ', 'Equipment/measurement.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'Unable to create cost Measurement record. Reason: ', 'Unable to create cost Measurement record. Reason: ', 'Equipment/measurement.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T4', 'Unable to update cost Measurement record. Reason: ', 'Unable to update cost Measurement record. Reason: ', 'Equipment/measurement.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T5', 'Edit', 'Edit', 'Equipment/measurement.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T6', 'Delete', 'Delete', 'Equipment/measurement.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T7', 'Measurements', 'Measurements', 'Equipment/measurement.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Hierarchy', 'Hierarchy', 'Equipment/equipmenttree.aspx', 'Terminator')
+
+#2015-05-04 2:39:50 PM
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'Numeric', 'Numeric', 'Equipment/addmeasurement.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T4', 'Alphabet', 'Alphabet', 'Equipment/addmeasurement.aspx', 'Terminator')
+
+#2015-05-04 2:50:32 PM
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Please enter valid rollover value.', 'Please enter valid rollover value.', 'Equipment/addmeter.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Please enter valid fudgefactor value.', 'Please enter valid fudgefactor value.', 'Equipment/addmeter.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'Please enter valid avgreading value.', 'Please enter valid avgreading value.', 'Equipment/addmeter.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T4', 'Please enter valid interval value.', 'Please enter valid interval value.', 'Equipment/addmeter.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T5', 'Please enter metername.', 'Please enter metername.', 'Equipment/addmeter.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T6', 'Are you sure you want to delete this meter?', 'Are you sure you want to delete this meter?', 'Equipment/addmeter.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Please enter serial number for serialized item.', 'Please enter serial number for serialized item.', 'Equipment/equipmentheader.ascx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Equipment is on open work order. Deletion is not allowed.', 'Equipment is on open work order. Deletion is not allowed.', 'Equipment/equipmentheader.ascx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'Equipment is on open purchase order. Deletion is not allowed.', 'Equipment is on open purchase order. Deletion is not allowed.', 'Equipment/equipmentheader.ascx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T4', 'Equipment is on open work order and purchase order. Deletion is not allowed.', 'Equipment is on open work order and purchase order. Deletion is not allowed.', 'Equipment/equipmentheader.ascx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T5', 'Are you sure want to reset Down Time?', 'Are you sure want to reset Down Time?', 'Equipment/equipmentheader.ascx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'History', 'History', 'Equipment/equipmenthistory.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Equipment History', 'Equipment History', 'Equipment/equipmenthistory.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Fixed', 'Fixed', 'Equipment/equipmentmain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Mobile', 'Mobile', 'Equipment/equipmentmain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'All', 'All', 'Equipment/equipmentmain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Measurement Reading', 'Measurement Reading', 'Equipment/equipmentmeasurement.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'MeasurementReading', 'MeasurementReading', 'Equipment/equipmentmeasurement.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'Measurement', 'Measurement', 'Equipment/equipmentmeasurement.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Meter Reading', 'Meter Reading', 'Equipment/equipmentmeter.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'MeterReading', 'MeterReading', 'Equipment/equipmentmeter.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'Meter', 'Meter', 'Equipment/equipmentmeter.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'PM List', 'PM List', 'Equipment/equipmentpmlist.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Specifications', 'Specifications', 'Equipment/equipmentspecs.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Delete', 'Delete', 'Equipment/equipmentspecs.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'Edit', 'Edit', 'Equipment/equipmentspecs.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T4', 'Unable to insert record. Reason: ', 'Unable to insert record. Reason: ', 'Equipment/equipmentspecs.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T5', 'Unable to update record. Reason: ', 'Unable to update record. Reason: ', 'Equipment/equipmentspecs.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T6', 'Unable to delete record. Reason: ', 'Unable to delete record. Reason: ', 'Equipment/equipmentspecs.aspx', 'Terminator')
+
+#2015-05-04 3:22:19 PM
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Procedure has been changed. Do you want to save the changes? Click Yes to save workorder and change status\nClick No to abort.', 'Procedure has been changed. Do you want to save the changes? Click Yes to save workorder and change status\nClick No to abort.', 'Proc/procmain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'This labour resource will be applied to all Procedures using this procedure. To retain the data on a Procedure so that it is not affected by changes in Procedure, remove the procedure code from the Procedure.\n\nClick OK to continue or Cancel to abort.', 'This labour resource will be applied to all Procedures using this procedure. To retain the data on a Procedure so that it is not affected by changes in Procedure, remove the procedure code from the Procedure.\n\nClick OK to continue or Cancel to abort.', 'Proc/procmain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'This material resource will be applied to all Procedures using this procedure. To retain the data on a Procedure so that it is not affected by changes in Procedure, remove the procedure code from the Procedure.\n\nClick OK to continue or Cancel to abort.', 'This material resource will be applied to all Procedures using this procedure. To retain the data on a Procedure so that it is not affected by changes in Procedure, remove the procedure code from the Procedure.\n\nClick OK to continue or Cancel to abort.', 'Proc/procmain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T4', 'This service resource will be applied to all Procedures using this procedure. To retain the data on a Procedure so that it is not affected by changes in Procedure, remove the procedure code from the Procedure.\n\nClick OK to continue or Cancel to abort.', 'This service resource will be applied to all Procedures using this procedure. To retain the data on a Procedure so that it is not affected by changes in Procedure, remove the procedure code from the Procedure.\n\nClick OK to continue or Cancel to abort.', 'Proc/procmain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T5', 'This tool resource will be applied to all Procedures using this procedure. To retain the data on a Procedure so that it is not affected by changes in Procedure, remove the procedure code from the Procedure.\n\nClick OK to continue or Cancel to abort.', 'This tool resource will be applied to all Procedures using this procedure. To retain the data on a Procedure so that it is not affected by changes in Procedure, remove the procedure code from the Procedure.\n\nClick OK to continue or Cancel to abort.', 'Proc/procmain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T6', 'This task resource will be applied to all Procedures using this procedure. To retain the data on a Procedure so that it is not affected by changes in Procedure, remove the procedure code from the Procedure.\n\nClick OK to continue or Cancel to abort.', 'This task resource will be applied to all Procedures using this procedure. To retain the data on a Procedure so that it is not affected by changes in Procedure, remove the procedure code from the Procedure.\n\nClick OK to continue or Cancel to abort.', 'Proc/procmain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Please enter a new procedure number.', 'Please enter a new procedure number.', 'Proc/Procduplicate.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Please enter a new procedure number or use auto number.', 'Please enter a new procedure number or use auto number.', 'Proc/Procduplicate.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'Please select the source to duplicate resources.', 'Please select the source to duplicate resources.', 'Proc/Procduplicate.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T4', 'Duplicate Procedure', 'Duplicate Procedure', 'Proc/Procduplicate.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T5', 'Enter a new Procedure number to create a duplicate of this Procedure record', 'Enter a new Procedure number to create a duplicate of this Procedure record', 'Proc/Procduplicate.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T6', 'Original Procedure #', 'Original Procedure #', 'Proc/Procduplicate.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T7', 'New Procedure #', 'New Procedure #', 'Proc/Procduplicate.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T8', 'Next Auto Number', 'Next Auto Number', 'Proc/Procduplicate.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T9', 'Duplicate Estimated Resources From:', 'Duplicate Estimated Resources From:', 'Proc/Procduplicate.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T10', 'Duplicate Procedure', 'Duplicate Procedure', 'Proc/Procduplicate.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T11', 'Duplicate', 'Duplicate', 'Proc/Procduplicate.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T12', 'Close Window', 'Close Window', 'Proc/Procduplicate.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T13', 'Close', 'Close', 'Proc/Procduplicate.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Unable to delete cost account record. Reason: ', 'Unable to delete cost account record. Reason: ', 'Proc/procaccounts.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Unable to create cost account record. Reason: ', 'Unable to create cost account record. Reason: ', 'Proc/procaccounts.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'Unable to update cost account record. Reason: ', 'Unable to update cost account record. Reason: ', 'Proc/procaccounts.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T4', 'Accounts', 'Accounts', 'Proc/procaccounts.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T5', 'Edit', 'Edit', 'Proc/procaccounts.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T6', 'Delete', 'Delete', 'Proc/procaccounts.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T7', 'Total cost account amount cannot exceed total cost of workorder.', 'Total cost account amount cannot exceed total cost of workorder.', 'Proc/procaccounts.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T8', 'Percentage must be a number between 0 to 100', 'Percentage must be a number between 0 to 100', 'Proc/procaccounts.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T9', 'Percentage sum must equal or less than 100!', 'Percentage sum must equal or less than 100!', 'Proc/procaccounts.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T10', 'Cost Percentage', 'Cost Percentage', 'Proc/procaccounts.aspx', 'Terminator')
+
+#2015-05-04 3:48:07 PM
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Labour', 'Labour', 'workrequest/wrmain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Material', 'Material', 'workrequest/wrmain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'Tasks', 'Tasks', 'workrequest/wrmain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T4', 'Services', 'Services', 'workrequest/wrmain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T5', 'Tools', 'Tools', 'workrequest/wrmain.aspx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'workrequest/wrpanel.aspx' AND MsgId = 'T1'
+DELETE FROM SystemMessage WHERE FileName = 'workrequest/wrpanel.aspx' AND MsgId = 'T2'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Final Approval', 'Final Approval', 'workrequest/wrstatus.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Approve Work Request', 'Approve Work Request', 'workrequest/wrstatus.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'Change Status', 'Change Status', 'workrequest/wrstatus.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T4', 'Cancel Work Request', 'Cancel Work Request', 'workrequest/wrstatus.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T5', 'Unapprove Work Request', 'Unapprove Work Request', 'workrequest/wrstatus.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T6', 'Reopen Work Request', 'Reopen Work Request', 'workrequest/wrstatus.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T7', 'Select an option from the To-Do list.', 'Select an option from the To-Do list.', 'workrequest/wrstatus.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T8', 'Select a status code.', 'Select a status code.', 'workrequest/wrstatus.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T9', 'This Record Only', 'This Record Only', 'workrequest/wrstatus.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T10', 'Selected Records', 'Selected Records', 'workrequest/wrstatus.aspx', 'Terminator')
+
+#2015-05-05 8:31:33 AM
+DELETE FROM SystemMessage WHERE FileName = 'workorder/BatchClose.aspx' AND MsgId = 'T4'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T4', '', '', 'workorder/BatchClose.aspx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'workorder/BatchClose.aspx' AND MsgId = 'T4'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T4', 'Closing Failed', 'Closing Failed', 'workorder/BatchClose.aspx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'workorder/BatchComplete.aspx' AND MsgId = 'T3'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'Workorders are not all completed.', 'Workorders are not all completed.', 'workorder/BatchComplete.aspx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'workorder/BatchComplete.aspx' AND MsgId = ''
+
+#2015-05-05 8:34:42 AM
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Work Request', 'Work Request', 'workorder/cancelworelatewr.aspx', 'Terminator')
+
+#2015-05-05 8:43:13 AM
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T4', 'Cost Percentage', 'Cost Percentage', 'workorder/woaccounts.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T5', 'Delete', 'Delete', 'workorder/woaccounts.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T6', 'Accounts', 'Accounts', 'workorder/woaccounts.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T7', 'Cost Accounts ', 'Cost Accounts ', 'workorder/woaccounts.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T8', 'Edit', 'Edit', 'workorder/woaccounts.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T6', 'Counter', 'Counter', 'workorder/Wocomp.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T7', 'Rollover', 'Rollover', 'workorder/Wocomp.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T8', 'Rolloverflag', 'Rolloverflag', 'workorder/Wocomp.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T9', 'Complete', 'Complete', 'workorder/Wocomp.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T10', 'Reset Meter', 'Reset Meter', 'workorder/Wocomp.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T11', 'Meter Name', 'Meter Name', 'workorder/Wocomp.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T12', 'Meter Reading', 'Meter Reading', 'workorder/Wocomp.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T13', 'Meter Date', 'Meter Date', 'workorder/Wocomp.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'History', 'History', 'workorder/wohistory.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T19', 'Labour Schedule', 'Labour Schedule', 'workorder/womain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'WOLabour', 'WOLabour', 'Timecards/tcmain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T4', 'Unposted', 'Unposted', 'Timecards/tcmain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T5', 'Posted', 'Posted', 'Timecards/tcmain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T6', 'All', 'All', 'Timecards/tcmain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T9', 'Cost Percentage', 'Cost Percentage', 'PM/pmaccounts.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'Available Readings', 'Available Readings', 'Route/routemain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'History', 'History', 'labour/labourhistory.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Delete', 'Delete', 'labour/labourinfo.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'Edit', 'Edit', 'labour/labourinfo.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Alternate Part', 'Alternate Part', 'inventory/alternatepart.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T4', 'List', 'List', 'inventory/invcount.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Edit', 'Edit', 'inventory/invcountbatch.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Count', 'Count', 'inventory/invcountbatch.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'Comment', 'Comment', 'inventory/invcountlines.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T4', 'List', 'List', 'inventory/invcountlines.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T5', 'Count', 'Count', 'inventory/invcountlines.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'List', 'List', 'inventory/invcountmain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Item Transaction History', 'Item Transaction History', 'inventory/invhistory.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T8', 'fail', 'fail', 'inventory/invissue.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T9', 'oldstock', 'oldstock', 'inventory/invissue.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T8', 'oldqty', 'oldqty', 'inventory/invlotlist.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T9', 'changed', 'changed', 'inventory/invlotlist.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T10', 'oldstock', 'oldstock', 'inventory/invlotlist.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Edit', 'Edit', 'inventory/invmain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Issue', 'Issue', 'inventory/invmain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Delete', 'Delete', 'inventory/invspecs.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Specifications', 'Specifications', 'inventory/invspecs.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'Edit', 'Edit', 'inventory/invspecs.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Edit', 'Edit', 'inventory/invvendor.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Inventory', 'Inventory', 'inventory/invvendor.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Edit', 'Edit', 'inventory/issuebatchlist.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'fail', 'fail', 'inventory/issuereserve.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'Insufficient inventory.', 'Insufficient inventory.', 'inventory/issuereserve.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T4', 'IssueQty', 'IssueQty', 'inventory/issuereserve.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T5', 'Detail', 'Detail', 'inventory/issuereserve.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Open PO List', 'Open PO List', 'inventory/openpo.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Detail', 'Detail', 'inventory/return.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'in', 'in', 'inventory/returndetail.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Equipment', 'Equipment', 'inventory/serializedeqplist.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Serialzied', 'Serialzied', 'inventory/serializedeqplist.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'InvLot', 'InvLot', 'inventory/storemain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T4', 'Transfer', 'Transfer', 'inventory/storemain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T5', 'Edit', 'Edit', 'inventory/storemain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Where Used', 'Where Used', 'inventory/whereused.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Equipment', 'Equipment', 'inventory/whereused.aspx', 'Terminator')
+
+#2015-05-05 10:15:39 AM
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Relation already exists. No record is created', 'Relation already exists. No record is created', 'App_Code/AlternatePart', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Relation already exists. Reverse record created.', 'Relation already exists. Reverse record created.', 'App_Code/AlternatePart', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'Reverse relation already exists. Reverse record is not saved', 'Reverse relation already exists. Reverse record is not saved', 'App_Code/AlternatePart', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T4', 'Relation already exists. No record is updated.', 'Relation already exists. No record is updated.', 'App_Code/AlternatePart', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T5', 'Reverse relation already exists. Reverse record not updated.', 'Reverse relation already exists. Reverse record not updated.', 'App_Code/AlternatePart', 'Terminator')
+
+#2015-05-05 12:48:35 PM
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Workorder status does not allow copy resources.', 'Workorder status does not allow copy resources.', 'InternalServices/ServiceWO', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'WorkOrder still has outstanding POLine records.Complete, Close or Cancel workorder is not allowed.', 'WorkOrder still has outstanding POLine records.Complete, Close or Cancel workorder is not allowed.', 'App_Code/Workorder', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'The employee ID to copy from is not found.', 'The employee ID to copy from is not found.', 'App_Code/Employee', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Activate this user will bring license count over limit. Activation failed.', 'Activate this user will bring license count over limit. Activation failed.', 'App_Code/Employee', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'The equipment number to copy from is not found.', 'The equipment number to copy from is not found.', 'App_Code/Equipment', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Equipment division and location division do not comfort.', 'Equipment division and location division do not comfort.', 'App_Code/Equipment', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'Equipment division and parent division do not comfort.', 'Equipment division and parent division do not comfort.', 'App_Code/Equipment', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', '<Message>There is no mapped in this interface </Message>', '<Message>There is no mapped in this interface </Message>', 'App_Code/Interface', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Parent table Data is not available. ', 'Parent table Data is not available. ', 'App_Code/Interface', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'Interface name and Source table name is invalid.', 'Interface name and Source table name is invalid.', 'App_Code/Interface', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T4', 'Invalid Interface Name or Tablename.', 'Invalid Interface Name or Tablename.', 'App_Code/Interface', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T5', 'Data is not exist', 'Data is not exist', 'App_Code/Interface', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T6', 'Parent record is incorrect.', 'Parent record is incorrect.', 'App_Code/Interface', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T7', 'Data does not meet permission to Insert/Update', 'Data does not meet permission to Insert/Update', 'App_Code/Interface', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'ItemNum is missing.', 'ItemNum is missing.', 'App_Code/Inventory', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', ' Store Room: ', ' Store Room: ', 'App_Code/Inventory', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', ' Item Num: ', ' Item Num: ', 'App_Code/Inventory', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T4', 'Maximum allowed issue quantity is ', 'Maximum allowed issue quantity is ', 'App_Code/Inventory', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T5', 'The request item for \nRequisition number: ', 'The request item for \nRequisition number: ', 'App_Code/Inventory', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T6', '\nItem number: ', '\nItem number: ', 'App_Code/Inventory', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T7', '\nhas been issued. Please refresh your screen to see current data.', '\nhas been issued. Please refresh your screen to see current data.', 'App_Code/Inventory', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T8', 'Mixed item cannot be saved in the same position multiple times.', 'Mixed item cannot be saved in the same position multiple times.', 'App_Code/Inventory', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T9', 'Cannot set lot to inactive when stock level is great than 0.', 'Cannot set lot to inactive when stock level is great than 0.', 'App_Code/Inventory', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T10', ' do not have enough quantity on hand.', ' do not have enough quantity on hand.', 'App_Code/Inventory', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T11', ' do not have enough quantity on hand.\\p', ' do not have enough quantity on hand.\\p', 'App_Code/Inventory', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T12', 'Equipment is null. Can not issue.', 'Equipment is null. Can not issue.', 'App_Code/Inventory', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T13', 'The Lotcounter for itemnum ', 'The Lotcounter for itemnum ', 'App_Code/Inventory', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T14', ' is null. It cannot be returned.', ' is null. It cannot be returned.', 'App_Code/Inventory', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T15', 'ItemNum or ItemDesc must be specified.', 'ItemNum or ItemDesc must be specified.', 'App_Code/Inventory', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T16', 'WONum, Equipment,Location,Empid,Item Request or DrAccount must be specified.', 'WONum, Equipment,Location,Empid,Item Request or DrAccount must be specified.', 'App_Code/Inventory', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T17', 'Transfer quantity cannot be more than stock level. Transfer failed.', 'Transfer quantity cannot be more than stock level. Transfer failed.', 'App_Code/Inventory', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T18', 'Item is not set up in the transfer to storeroom. Transfer failed.', 'Item is not set up in the transfer to storeroom. Transfer failed.', 'App_Code/Inventory', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T19', 'Cannot transfer more than stocklevel.', 'Cannot transfer more than stocklevel.', 'App_Code/Inventory', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T20', 'Lot is not found.', 'Lot is not found.', 'App_Code/Inventory', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T21', 'Please setup item ', 'Please setup item ', 'App_Code/Inventory', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T22', ' in storeroom ', ' in storeroom ', 'App_Code/Inventory', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T23', 'before receiving into storeroom.', 'before receiving into storeroom.', 'App_Code/Inventory', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Item already exists in the storeroom. Create new record not allowed.', 'Item already exists in the storeroom. Create new record not allowed.', 'App_Code/InvMain', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Item is currently on open work orders. Deletion of item is not allowed.', 'Item is currently on open work orders. Deletion of item is not allowed.', 'App_Code/Items', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Item is currently on active Purchase Orders. Deletion of item is not allowed.', 'Item is currently on active Purchase Orders. Deletion of item is not allowed.', 'App_Code/Items', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'Item is currently storeroom. Deletion of item is not allowed.', 'Item is currently storeroom. Deletion of item is not allowed.', 'App_Code/Items', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T4', ' And LotNum is Null', ' And LotNum is Null', 'App_Code/Items', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'App_Code/Items' AND MsgId = 'T4'
+
+#2015-05-05 1:42:20 PM
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'WorkOrder status does not allow creating resource record.', 'WorkOrder status does not allow creating resource record.', 'App_Code/Labour', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'WorkOrder status does not allow editing resource record.', 'WorkOrder status does not allow editing resource record.', 'App_Code/Labour', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'WorkOrder status does not allow deleting resource record.', 'WorkOrder status does not allow deleting resource record.', 'App_Code/Labour', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Location division and parent division do not comfort.', 'Location division and parent division do not comfort.', 'App_Code/Location', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'WorkOrder status does not allow creating resource record.', 'WorkOrder status does not allow creating resource record.', 'App_Code/Material', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'WorkOrder status does not allow editing resource record.', 'WorkOrder status does not allow editing resource record.', 'App_Code/Material', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'WorkOrder status does not allow deleting resource record.', 'WorkOrder status does not allow deleting resource record.', 'App_Code/Material', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', ' is not supplied.', ' is not supplied.', 'App_Code/ModuleoObject', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Update cannot proceed because the record has been changed by another operation.', 'Update cannot proceed because the record has been changed by another operation.', 'App_Code/ModuleoObject', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'The Procedure number to copy from is not found.', 'The Procedure number to copy from is not found.', 'App_Code/Procedure', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Invalid signer.', 'Invalid signer.', 'App_Code/Req', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Invalid sign type.', 'Invalid sign type.', 'App_Code/Req', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'RouteName is empty.', 'RouteName is empty.', 'App_Code/Route', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'No routename is passed. Duplication failed.', 'No routename is passed. Duplication failed.', 'App_Code/Route', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', ' already exists.', ' already exists.', 'App_Code/Specification', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Delete Failed because StoreRoom is not empty!', 'Delete Failed because StoreRoom is not empty!', 'App_Code/StoreRoom', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Delete Failed because StoreRoom is assigned to open Purchase Order !', 'Delete Failed because StoreRoom is assigned to open Purchase Order !', 'App_Code/StoreRoom', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'Delete Failed because StoreRoom is assigned to planned materials in open Work Order !', 'Delete Failed because StoreRoom is assigned to planned materials in open Work Order !', 'App_Code/StoreRoom', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'WorkOrder status does not allow creating resource record.', 'WorkOrder status does not allow creating resource record.', 'App_Code/Task', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'WorkOrder status does not allow editing resource record.', 'WorkOrder status does not allow editing resource record.', 'App_Code/Task', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'WorkOrder status does not allow deleting resource record.', 'WorkOrder status does not allow deleting resource record.', 'App_Code/Task', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'WorkOrder status does not allow creating resource record.', 'WorkOrder status does not allow creating resource record.', 'App_Code/Tool', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'WorkOrder status does not allow editing resource record.', 'WorkOrder status does not allow editing resource record.', 'App_Code/Tool', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'WorkOrder status does not allow deleting resource record.', 'WorkOrder status does not allow deleting resource record.', 'App_Code/Tool', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Please configure email settings in Admin module.', 'Please configure email settings in Admin module.', 'App_Code/TriggerClass', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'The work request number to copy from is not found.', 'The work request number to copy from is not found.', 'App_Code/WorkRequest', 'Terminator')
+
+#2015-05-05 3:54:32 PM
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Division', 'Division', 'Util/LinkDocdiv.aspx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'Util/MaterialForm.aspx' AND MsgId = 'T1'
+DELETE FROM SystemMessage WHERE FileName = 'Util/MaterialForm.aspx' AND MsgId = 'T2'
+DELETE FROM SystemMessage WHERE FileName = 'Util/MaterialForm.aspx' AND MsgId = 'T3'
+
+#2015-05-05 4:09:51 PM
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'WebWork Administrator', 'WebWork Administrator', 'App_Code/TriggerClass', 'Terminator')
+
+#2015-05-05 4:11:30 PM
+DELETE FROM SystemMessage WHERE FileName = 'App_Code/TriggerClass' AND MsgId = 'T2'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Azzier Administrator', 'Azzier Administrator', 'App_Code/TriggerClass', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'App_Code/TriggerClass' AND MsgId = 'T2'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'WebWork Administrator', 'WebWork Administrator', 'App_Code/TriggerClass', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'App_Code/TriggerClass' AND MsgId = 'T2'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Azzier Administrator', 'Azzier Administrator', 'App_Code/TriggerClass', 'Terminator')
+
+#2015-05-06 11:19:28 AM
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Return From', 'Return From', 'Receiving/returnfromlist.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'Receipts', 'Receipts', 'Receiving/returnvendor.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'Keys', 'Keys', 'Requisition/keyrequest.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T7', 'Delete', 'Delete', 'Requisition/reqaccounts.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'history', 'history', 'Requisition/reqhistory.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Line Items', 'Line Items', 'Requisition/reqmain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T4', 'fail', 'fail', 'Purchase/addrequesttopo.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'fail', 'fail', 'Purchase/generatepo.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T5', 'fail', 'fail', 'Purchase/generatepolist.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T9', 'POInvoice', 'POInvoice', 'Purchase/invoicemain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T10', 'Auto', 'Auto', 'Purchase/invoicemain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'fail', 'fail', 'Purchase/newpoitem.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T4', 'Delete', 'Delete', 'Purchase/poaccounts.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T5', 'Accounts', 'Accounts', 'Purchase/poaccounts.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T6', 'Edit', 'Edit', 'Purchase/poaccounts.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'history', 'history', 'Purchase/pohistory.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Edit', 'Edit', 'Purchase/poinvoices.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T14', 'fail', 'fail', 'Purchase/polinedetail.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'fail', 'fail', 'Purchase/selpoforreq.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'PO', 'PO', 'Purchase/selpoforreq.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'ProjHistory', 'ProjHistory', 'Project/projecthistory.aspx', 'Terminator')
+
+#2015-05-06 11:27:18 AM
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T4', 'Invalid Percent', 'Invalid Percent', 'Project/projectphase.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'WorkOrder', 'WorkOrder', 'Project/wolist.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T4', 'Employee', 'Employee', 'scheduler/labourScheduler.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T5', 'View', 'View', 'scheduler/labourScheduler.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Work Order', 'Work Order', 'scheduler/mainScheduler.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Employee', 'Employee', 'scheduler/mainScheduler.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Work Order', 'Work Order', 'scheduler/masterScheduler.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'View', 'View', 'scheduler/mySchedule.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Employee', 'Employee', 'scheduler/mySchedule.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T6', 'duplicate record.', 'duplicate record.', 'Admin/Addmember.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T12', 'Admin', 'Admin', 'Admin/Admin.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Edit', 'Edit', 'Admin/AdminChgStatus.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'Password Changed Successfully!', 'Password Changed Successfully!', 'Admin/Changepwd.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T7', 'User Division', 'User Division', 'Admin/Division.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Successful exported screens.', 'Successful exported screens.', 'Admin/reportexport.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Successful exported reports.', 'Successful exported reports.', 'Admin/reportexport.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'teroreport', 'teroreport', 'Admin/reportexport.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Invalid file type.', 'Invalid file type.', 'Admin/reportimport.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Please selected a valid XML file.', 'Please selected a valid XML file.', 'Admin/reportimport.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T4', 'ScreenMaster', 'ScreenMaster', 'Admin/screenexport.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T13', 'Value', 'Value', 'Admin/Security.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T14', 'SubModule', 'SubModule', 'Admin/Security.aspx', 'Terminator')
+
+#2015-05-06 11:41:17 AM
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T5', 'User Rights', 'User Rights', 'Admin/userrightsmain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T6', 'SubModule', 'SubModule', 'Admin/userrightsmain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Work Order Status', 'Work Order Status', 'Admin/statuslist.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'Work Request Status', 'Work Request Status', 'Admin/statuslist.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T4', 'PO Status', 'PO Status', 'Admin/statuslist.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T5', 'Requisition Status', 'Requisition Status', 'Admin/statuslist.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T6', 'Project Status', 'Project Status', 'Admin/statuslist.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'DEFINED IMPORT', 'DEFINED IMPORT', 'Interface/infmain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'DEFINED EXPORT', 'DEFINED EXPORT', 'Interface/infmain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'GENERAL IMPORT', 'GENERAL IMPORT', 'Interface/infmain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T4', 'GENERAL EXPORT', 'GENERAL EXPORT', 'Interface/infmain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T9', 'Please select a table...', 'Please select a table...', 'emailnotify/emailnotifymain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'CONSTANT EMAIL', 'CONSTANT EMAIL', 'emailnotify/recipient.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T4', 'CONSTANT LABOUR', 'CONSTANT LABOUR', 'emailnotify/recipient.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T5', 'CONSTANT VENDOR', 'CONSTANT VENDOR', 'emailnotify/recipient.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T6', 'VARIABLE EMAIL', 'VARIABLE EMAIL', 'emailnotify/recipient.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T7', 'VARIABLE LABOUR', 'VARIABLE LABOUR', 'emailnotify/recipient.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T8', 'VARIABLE VENDOR', 'VARIABLE VENDOR', 'emailnotify/recipient.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T7', 'RecipientType', 'RecipientType', 'emailnotify/sendemail.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T8', 'Recipient', 'Recipient', 'emailnotify/sendemail.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T9', 'Recipient List', 'Recipient List', 'emailnotify/sendemail.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T10', 'Email List', 'Email List', 'emailnotify/sendemail.aspx', 'Terminator')
+
+#2015-05-07 11:14:10 AM
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T5', 'DATA', 'DATA', 'Interface/infmain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T6', 'TIME', 'TIME', 'Interface/infmain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T7', 'INSERT/UPDATE', 'INSERT/UPDATE', 'Interface/infmain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T8', 'INSERT', 'INSERT', 'Interface/infmain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T9', 'UPDATE', 'UPDATE', 'Interface/infmain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T10', 'DELETE', 'DELETE', 'Interface/infmain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T11', 'Please select a table...', 'Please select a table...', 'Interface/infmain.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Field Alias List', 'Field Alias List', 'reportbuilder/aliaslist.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'NONE', 'NONE', 'reportbuilder/chartelement.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'CATEGORY', 'CATEGORY', 'reportbuilder/chartelement.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'VALUE', 'VALUE', 'reportbuilder/chartelement.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'DEFAULT', 'DEFAULT', 'reportbuilder/formatstring.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'CURRENCY', 'CURRENCY', 'reportbuilder/formatstring.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'NUMERIC WITH 2 DECIMAL', 'NUMERIC WITH 2 DECIMAL', 'reportbuilder/formatstring.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T4', 'NUMERIC WITH 4 DECIMAL', 'NUMERIC WITH 4 DECIMAL', 'reportbuilder/formatstring.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T5', 'NUMERIC WITH NO DECIMAL', 'NUMERIC WITH NO DECIMAL', 'reportbuilder/formatstring.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T21', 'FieldAlias', 'FieldAlias', 'querybuilder/querydetail.aspx', 'Terminator')
+
+#2015-05-08 2:18:41 PM
+DELETE FROM SystemMessage1 WHERE FileName = 'Util/SpecSearch.aspx' AND MsgId = 'T2'
+DELETE FROM SystemMessage WHERE FileName = 'Util/SpecSearch.aspx' AND MsgId = 'T2'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', '', '', 'Util/SpecSearch.aspx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'Util/SpecSearch.aspx' AND MsgId = 'btnlookup'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('btnlookup', '', '', 'Util/SpecSearch.aspx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'Util/SpecSearch.aspx' AND MsgId = 'btnlookup'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('btnlookup', 'Look Up', 'Look Up', 'Util/SpecSearch.aspx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'Util/SpecSearch.aspx' AND MsgId = 'T2'
+DELETE FROM SystemMessage WHERE FileName = 'Util/SpecSearch.aspx' AND MsgId = 'btncancel'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('btncancel', 'Cancel', 'Cancel', 'Util/SpecSearch.aspx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'Receiving/receiveline.aspx' AND MsgId = 'btnreceive'
+DELETE FROM SystemMessage WHERE FileName = 'Receiving/receiveline.aspx' AND MsgId = 'btnreceive'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('btnreceive', '', '', 'Receiving/receiveline.aspx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'Receiving/receiveline.aspx' AND MsgId = 'btnreceive'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('btnreceive', 'Receive', 'Receive', 'Receiving/receiveline.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Please enter high limit procedure number or high limit email notification.', 'Please enter high limit procedure number or high limit email notification.', 'PdM/pdmheader.ascx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'Please enter high limit number.', 'Please enter high limit number.', 'PdM/pdmheader.ascx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T4', 'Please enter high warning procedure number.', 'Please enter high warning procedure number.', 'PdM/pdmheader.ascx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T5', 'Please enter high warning number or high warning email notification.', 'Please enter high warning number or high warning email notification.', 'PdM/pdmheader.ascx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T6', 'Please enter low warning procedure number or low warning email notification.', 'Please enter low warning procedure number or low warning email notification.', 'PdM/pdmheader.ascx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T7', 'Please enter low warning number.', 'Please enter low warning number.', 'PdM/pdmheader.ascx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T8', 'Please enter low limit procedure number or low limit email notification.', 'Please enter low limit procedure number or low limit email notification.', 'PdM/pdmheader.ascx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T9', 'Please enter low limit number.', 'Please enter low limit number.', 'PdM/pdmheader.ascx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'PdM/pdmheader.ascx' AND MsgId = ''
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('', 'Invalid Limits and Warnings', 'Invalid Limits and Warnings', 'PdM/pdmheader.ascx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'PdM/pdmheader.ascx' AND MsgId = 'T10'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T10', 'Invalid Limits and Warnings', 'Invalid Limits and Warnings', 'PdM/pdmheader.ascx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'PdM/pdmheader.ascx' AND MsgId = ''
+
+#2015-05-08 3:12:43 PM
+DELETE FROM SystemMessage WHERE FileName = 'Equipment/equipmentheader.ascx' AND MsgId = 'T6'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T6', '', '', 'Equipment/equipmentheader.ascx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'Equipment/equipmentheader.ascx' AND MsgId = 'T7'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T7', '', '', 'Equipment/equipmentheader.ascx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'Equipment/equipmentheader.ascx' AND MsgId = 'T7'
+DELETE FROM SystemMessage WHERE FileName = 'Equipment/equipmentheader.ascx' AND MsgId = 'T6'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T6', 'Are you sure you want to delete this equipment?', 'Are you sure you want to delete this equipment?', 'Equipment/equipmentheader.ascx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'Equipment/equipmentheader.ascx' AND MsgId = 'T5'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T5', 'Are you sure you want to reset Down Time?', 'Are you sure you want to reset Down Time?', 'Equipment/equipmentheader.ascx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'inventory/invhistory.aspx' AND MsgId = 'T1'
+DELETE FROM SystemMessage WHERE FileName = 'Proc/Procheader.ascx' AND MsgId = 'T1'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', '', '', 'Proc/Procheader.ascx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'Proc/Procheader.ascx' AND MsgId = 'T1'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Are you sure you want to delete this procedure.', 'Are you sure you want to delete this procedure.', 'Proc/Procheader.ascx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'Proc/Procheader.ascx' AND MsgId = 'T1'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Are you sure you want to delete this procedure?', 'Are you sure you want to delete this procedure?', 'Proc/Procheader.ascx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'vendor/vendorheader.ascx' AND MsgId = 'T1'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', '', '', 'vendor/vendorheader.ascx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'vendor/vendorheader.ascx' AND MsgId = 'T1'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Are you sure you want to delete this vendor?', 'Are you sure you want to delete this vendor?', 'vendor/vendorheader.ascx', 'Terminator')
+
+#2015-05-19 2:21:59 PM
+DELETE FROM SystemMessage WHERE FileName = 'workrequest/wrmain.aspx' AND MsgId = 'T6'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T6', '', '', 'workrequest/wrmain.aspx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'workrequest/wrmain.aspx' AND MsgId = 'T6'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T6', 'window.confirm("Workorder has been changed. Do you want to save the changes? Click Yes to save workorder and change status\nClick No to abort.', 'window.confirm("Workorder has been changed. Do you want to save the changes? Click Yes to save workorder and change status\nClick No to abort.', 'workrequest/wrmain.aspx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'workrequest/wrmain.aspx' AND MsgId = 'T6'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T6', 'Workorder has been changed. Do you want to save the changes? Click Yes to save workorder and change status\nClick No to abort. "', 'Workorder has been changed. Do you want to save the changes? Click Yes to save workorder and change status\nClick No to abort. "', 'workrequest/wrmain.aspx', 'Terminator')
+
+#2015-05-19 2:24:13 PM
+DELETE FROM SystemMessage WHERE FileName = 'workrequest/wrmain.aspx' AND MsgId = 'T6'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T6', 'Workorder has been changed. Do you want to save the changes? Click Yes to save workorder and change status, click No to abort.', 'Workorder has been changed. Do you want to save the changes? Click Yes to save workorder and change status, click No to abort.', 'workrequest/wrmain.aspx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'workrequest/wrmain.aspx' AND MsgId = 'T7'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T7', '', '', 'workrequest/wrmain.aspx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'workrequest/wrmain.aspx' AND MsgId = 'T7'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T7', 'Cannot change location for fixed position equipment.', 'Cannot change location for fixed position equipment.', 'workrequest/wrmain.aspx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'workrequest/wrheader.ascx' AND MsgId = 'T1'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', '', '', 'workrequest/wrheader.ascx', 'Terminator')
+
+#2015-05-19 2:39:38 PM
+DELETE FROM SystemMessage WHERE FileName = 'workrequest/wrheader.ascx' AND MsgId = 'T1'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Procedure has been changed. By clicking OK, you will replace all estimated resources with those from the new procedure.\n\rClick Cancel to abort the operation.', 'Procedure has been changed. By clicking OK, you will replace all estimated resources with those from the new procedure.\n\rClick Cancel to abort the operation.', 'workrequest/wrheader.ascx', 'Terminator')
+
+#2015-05-19 2:59:09 PM
+DELETE FROM SystemMessage WHERE FileName = 'Project/projectstatus.aspx' AND MsgId = 'T2'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Final Approval', 'Final Approval', 'Project/projectstatus.aspx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'Project/projectstatus.aspx' AND MsgId = 'T5'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T5', '', '', 'Project/projectstatus.aspx', 'Terminator')
+
+#2015-05-19 3:12:37 PM
+DELETE FROM SystemMessage WHERE FileName = 'Project/projectstatus.aspx' AND MsgId = 'T2'
+DELETE FROM SystemMessage WHERE FileName = 'Project/projectstatus.aspx' AND MsgId = 'T5'
+DELETE FROM SystemMessage WHERE FileName = 'Project/projectstatus.aspx' AND MsgId = 'T1'
+
+#2015-05-19 3:23:12 PM
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Change Status', 'Change Status', 'Project/projectstatus.aspx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'Project/projectstatus.aspx' AND MsgId = 'T1'
+
+#2015-05-19 3:35:59 PM
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Change Status', 'Change Status', 'Project/projectstatus.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Final Approval', 'Final Approval', 'Project/projectstatus.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T3', 'Approve Work Order', 'Approve Work Order', 'Project/projectstatus.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T4', 'Reopen Work Order', 'Reopen Work Order', 'Project/projectstatus.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T5', 'Cancel Project', 'Cancel Project', 'Project/projectstatus.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T6', 'Unapprove Work Order', 'Unapprove Work Order', 'Project/projectstatus.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T7', 'Unapprove Project', 'Unapprove Project', 'Project/projectstatus.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T8', 'Close Work Order', 'Close Work Order', 'Project/projectstatus.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T9', 'Uncomplete Work Order', 'Uncomplete Work Order', 'Project/projectstatus.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T10', 'This Record Only', 'This Record Only', 'Project/projectstatus.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T11', 'Selected Records', 'Selected Records', 'Project/projectstatus.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'No Record Selected.', 'No Record Selected.', 'Project/wolist.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T6', 'Please enter valid start date.', 'Please enter valid start date.', 'PM/pmseason.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T7', 'Please enter valid end date.', 'Please enter valid end date.', 'PM/pmseason.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T8', 'Control not found.', 'Control not found.', 'PM/pmseason.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'No Record Selected!', 'No Record Selected!', 'Timecards/tcpanel.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T9', 'Select an option from the To-Do List.', 'Select an option from the To-Do List.', 'Requisition/reqstatus.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T10', 'No Record Selected.', 'No Record Selected.', 'Requisition/reqstatus.aspx', 'Terminator')
+
+#2015-05-20 2:41:40 PM
+DELETE FROM SystemMessage WHERE FileName = 'Proc/procaccounts.aspx' AND MsgId = 'T7'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T7', 'Total cost account amount cannot exceed total cost of procedure.', 'Total cost account amount cannot exceed total cost of procedure.', 'Proc/procaccounts.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T12', 'Select an option from the To-Do list.', 'Select an option from the To-Do list.', 'Project/projectstatus.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T13', 'No status code selected.', 'No status code selected.', 'Project/projectstatus.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T7', 'Total cost account amount cannot exceed total cost of purchase order.', 'Total cost account amount cannot exceed total cost of purchase order.', 'Purchase/poaccounts.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T12', 'Select an option from the To-Do list.', 'Select an option from the To-Do list.', 'Purchase/postatus.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T13', 'No status code selected.', 'No status code selected.', 'Purchase/postatus.aspx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'Requisition/reqaccounts.aspx' AND MsgId = 'T6'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T6', 'Total cost account amount cannot exceed total cost of requisition.', 'Total cost account amount cannot exceed total cost of requisition.', 'Requisition/reqaccounts.aspx', 'Terminator')
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T8', 'Accounts', 'Accounts', 'Requisition/reqaccounts.aspx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'workorder/woaccounts.aspx' AND MsgId = 'T4'
+DELETE FROM SystemMessage WHERE FileName = 'PM/pmaccounts.aspx' AND MsgId = 'T9'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T9', 'Total cost account amount cannot exceed total cost of workorder.', 'Total cost account amount cannot exceed total cost of workorder.', 'PM/pmaccounts.aspx', 'Terminator')
+
+#2015-05-21 1:54:22 PM
+DELETE FROM SystemMessage WHERE FileName = 'Proc/procaccounts.aspx' AND MsgId = 'T10'
+DELETE FROM SystemMessage WHERE FileName = 'Purchase/poaccounts.aspx' AND MsgId = 'T3'
+DELETE FROM SystemMessage WHERE FileName = 'workorder/woaccounts.aspx' AND MsgId = 'T7'
+
+#2015-05-28 8:58:13 AM
+DELETE FROM SystemMessage WHERE FileName = 'Codes/map.aspx' AND MsgId = 'T2'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Error: The Geolocation " service failed.', 'Error: The Geolocation " service failed.', 'Codes/map.aspx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'Codes/map.aspx' AND MsgId = 'T2'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T2', 'Error: The Geolocation service failed.', 'Error: The Geolocation service failed.', 'Codes/map.aspx', 'Terminator')
+
+#2015-06-01 2:46:36 PM
+DELETE FROM SystemMessage WHERE FileName = 'Util/ToolsForm.aspx' AND MsgId = ''
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('', 'T4	This tool resource will be applied to all PMs using this procedure. To retain the data on a PM so that it is not affected by changes in Procedure, remove the procedure code from the PM.\n\nClick OK to continue or Cancel to abort.', 'T4	This tool resource will be applied to all PMs using this procedure. To retain the data on a PM so that it is not affected by changes in Procedure, remove the procedure code from the PM.\n\nClick OK to continue or Cancel to abort.', 'Util/ToolsForm.aspx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'Util/ToolsForm.aspx' AND MsgId = ''
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('', 'This tool resource will be applied to all PMs using this procedure. To retain the data on a PM so that it is not affected by changes in Procedure, remove the procedure code from the PM.\n\nClick OK to continue or Cancel to abort.', 'This tool resource will be applied to all PMs using this procedure. To retain the data on a PM so that it is not affected by changes in Procedure, remove the procedure code from the PM.\n\nClick OK to continue or Cancel to abort.', 'Util/ToolsForm.aspx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'Util/ToolsForm.aspx' AND MsgId = 'T4'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T4', 'This tool resource will be applied to all PMs using this procedure. To retain the data on a PM so that it is not affected by changes in Procedure, remove the procedure code from the PM.\n\nClick OK to continue or Cancel to abort.', 'This tool resource will be applied to all PMs using this procedure. To retain the data on a PM so that it is not affected by changes in Procedure, remove the procedure code from the PM.\n\nClick OK to continue or Cancel to abort.', 'Util/ToolsForm.aspx', 'Terminator')
+
+#2015-06-01 2:53:40 PM
+DELETE FROM SystemMessage WHERE FileName = 'Util/LabourForm.aspx' AND MsgId = 'T4'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T4', '', '', 'Util/LabourForm.aspx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'Util/LabourForm.aspx' AND MsgId = 'T4'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T4', 'T4	This labour resource will be applied to all PMs using this procedure. To retain the data on a PM so that it is not affected by changes in Procedure, remove the procedure code from the PM.\n\nClick OK to continue or Cancel to abort.', 'T4	This labour resource will be applied to all PMs using this procedure. To retain the data on a PM so that it is not affected by changes in Procedure, remove the procedure code from the PM.\n\nClick OK to continue or Cancel to abort.', 'Util/LabourForm.aspx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'Util/LabourForm.aspx' AND MsgId = 'T4'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T4', 'This labour resource will be applied to all PMs using this procedure. To retain the data on a PM so that it is not affected by changes in Procedure, remove the procedure code from the PM.\n\nClick OK to continue or Cancel to abort.', 'This labour resource will be applied to all PMs using this procedure. To retain the data on a PM so that it is not affected by changes in Procedure, remove the procedure code from the PM.\n\nClick OK to continue or Cancel to abort.', 'Util/LabourForm.aspx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'Util/LabourForm.aspx' AND MsgId = 'T1'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'This labour resource will be applied to all PMs using this procedure. To retain the data on a PM so that it is not affected by changes in Procedure, remove the procedure code from the PM.\n\nClick OK to continue or Cancel to abort.', 'This labour resource will be applied to all PMs using this procedure. To retain the data on a PM so that it is not affected by changes in Procedure, remove the procedure code from the PM.\n\nClick OK to continue or Cancel to abort.', 'Util/LabourForm.aspx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'Util/LabourForm.aspx' AND MsgId = 'T4'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T5', 'Are you sure you want to delete this message?', 'Are you sure you want to delete this message?', 'Util/ServiceForm.aspx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'Util/ServiceForm.aspx' AND MsgId = 'T3'
+DELETE FROM SystemMessage WHERE FileName = 'Util/ServiceForm.aspx' AND MsgId = 'T5'
+DELETE FROM SystemMessage WHERE FileName = 'Util/ServiceForm.aspx' AND MsgId = 'T2'
+DELETE FROM SystemMessage WHERE FileName = 'Util/ServiceForm.aspx' AND MsgId = 'T1'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', '', '', 'Util/ServiceForm.aspx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'Util/ServiceForm.aspx' AND MsgId = 'T1'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'Are you sure you want to delete this procedure?', 'Are you sure you want to delete this procedure?', 'Util/ServiceForm.aspx', 'Terminator')
+
+#2015-06-02 9:23:54 AM
+DELETE FROM SystemMessage WHERE FileName = 'Util/ServiceForm.aspx' AND MsgId = 'T1'
+DELETE FROM SystemMessage WHERE FileName = 'Util/ServiceForm.aspx' AND MsgId = 'T1'
+INSERT INTO SystemMessage (MsgId, MessageDesc, MessageText, FileName, CreatedBy) VALUES ('T1', 'This service resource will be applied to all PMs using this procedure. To retain the data on a PM so that it is not affected by changes in Procedure, remove the procedure code from the PM.\n\nClick OK to continue or Cancel to abort.', 'This service resource will be applied to all PMs using this procedure. To retain the data on a PM so that it is not affected by changes in Procedure, remove the procedure code from the PM.\n\nClick OK to continue or Cancel to abort.', 'Util/ServiceForm.aspx', 'Terminator')
+DELETE FROM SystemMessage WHERE FileName = 'Util/ServiceForm.aspx' AND MsgId = 'T4'
